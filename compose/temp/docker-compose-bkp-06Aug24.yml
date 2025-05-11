@@ -1,0 +1,146 @@
+# vi ~/server/compose/adguard-home/docker-compose.yml
+version: '3.3'
+services:
+    run:
+        container_name: adguardhome
+        restart: unless-stopped
+        volumes:
+            - '/home/${USER}/server/configs/adguardhome/workdir:/opt/adguardhome/work'
+            - '/home/${USER}/server/configs/adguardhome/confdir:/opt/adguardhome/conf'
+        ports:
+            - '53:53/tcp'
+            - '53:53/udp'
+            - '67:67/udp'
+            # - '68:68/udp'
+            # - '68:68/tcp'
+            - '80:80/tcp'
+            - '443:443/tcp'
+            - '443:443/udp'
+            - '3000:3000/tcp'
+        image: adguard/adguardhome
+    # Prowlarr: Indexer
+    prowlarr:
+        container_name: prowlarr
+        image: linuxserver/prowlarr
+        ports:
+            - '9696:9696'
+        environment:
+            - PUID=1000
+            - PGID=1000
+            - TZ=Europe/London
+        volumes:
+            - '/home/${USER}/server/configs/prowlarr:/config'
+        restart: unless-stopped
+    # Sonarr: TV shows
+    sonarr:
+        container_name: sonarr
+        image: linuxserver/sonarr
+        environment:
+            - PUID=1000
+            - PGID=1000
+            - TZ=Europe/London
+        ports:
+            - '8989:8989'
+        volumes:
+            - '/home/${USER}/server/configs/sonarr:/config'
+            - '/home/${USER}/server:/data'
+        restart: unless-stopped
+    # Radarr - Movies
+    radarr:
+        container_name: radarr
+        image: linuxserver/radarr
+        environment:
+            - PUID=1000
+            - PGID=1000
+            - TZ=Europe/London
+        ports:
+            - '7878:7878'
+        volumes:
+            - '/home/${USER}/server/configs/radarr:/config'
+            - '/home/${USER}/server:/data'
+        restart: unless-stopped
+    # Bazarr - Subtitles
+    bazarr:
+        container_name: bazarr
+        image: linuxserver/bazarr
+        environment:
+            - PUID=1000
+            - PGID=1000
+            - TZ=Europe/London
+        volumes:
+            - '/home/${USER}/server/configs/bazarr:/config'
+            - '/home/${USER}/server:/data'
+        ports:
+            - '6767:6767'
+        restart: unless-stopped
+    # Jellyfin - Media server
+    jellyfin:
+        container_name: jellyfin
+        image: ghcr.io/linuxserver/jellyfin
+        environment:
+            - PUID=1000
+            - PGID=1000
+            - TZ=Europe/London
+        ports:
+            - '8096:8096'
+        devices:
+            - '/dev/dri:/dev/dri'
+        volumes:
+            - '/home/${USER}/server/configs/jellyfin:/config'
+            - '/home/${USER}/server/media:/data/media'
+        restart: unless-stopped
+    # qbit - Torrent
+    qbittorrent:
+        image: linuxserver/qbittorrent
+        container_name: qbittorrent
+        environment:
+            - PUID=1000
+            - PGID=1000
+            - TZ=Europe/London
+            - WEBUI_PORT=8080
+            - TORRENTING_PORT=6881
+        volumes:
+            - '/home/${USER}/server/configs/qbit:/config'
+            - '/home/${USER}/server/torrents:/data/torrents'
+        ports:
+            - 8080:8080
+            - 6881:6881
+            - 6881:6881/udp
+        restart: unless-stopped
+    # Dashboard
+    heimdall:
+        container_name: heimdall
+        image: linuxserver/heimdall
+        environment:
+            - PUID=1000
+            - PGID=1000
+            - TZ=Europe/London
+        volumes:
+            - '/home/${USER}/server/configs/heimdall:/config'
+        ports:
+            - 8090:80
+        restart: unless-stopped
+    # Cloudfare solver
+    flaresolverr:
+        container_name: flaresolverr
+        image: 'ghcr.io/flaresolverr/flaresolverr:latest'
+        ports:
+            - '8191:8191'
+        environment:
+            - PUID=1000
+            - PGID=1000
+            - TZ=Europe/London
+        restart: unless-stopped
+    # Requests from users
+    jellyseerr:
+        image: fallenbagel/jellyseerr:latest
+        container_name: jellyseerr
+        environment:
+            - LOG_LEVEL=debug
+            - TZ=Europe/London
+            - PORT=5055 #optional
+        ports:
+            - 5055:5055
+        volumes:
+            - /home/${USER}/server/configs/jellyseer:/app/config
+        restart: unless-stopped

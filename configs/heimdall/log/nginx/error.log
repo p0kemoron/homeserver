@@ -1,0 +1,5 @@
+2025/02/09 12:14:36 [alert] 268#268: worker process 304 exited on signal 9
+2025/02/09 12:14:36 [alert] 268#268: worker process 305 exited on signal 9
+2025/02/09 12:14:36 [alert] 268#268: worker process 306 exited on signal 9
+2025/02/09 12:14:36 [alert] 268#268: worker process 307 exited on signal 9
+2025/05/10 17:47:20 [error] 302#302: *30 upstream timed out (110: Operation timed out) while reading response header from upstream, client: 192.168.1.110, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.1.109:8090"

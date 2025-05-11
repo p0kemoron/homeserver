@@ -1,0 +1,77 @@
+Jul 15, 2024 20:25:10.616 [139478482037560] INFO - Plex Media Server v1.40.4.8679-424562606 - Docker Docker Container (LinuxServer.io) x86_64 - build: linux-x86_64 debian - GMT 01:00
+Jul 15, 2024 20:25:10.617 [139478482037560] INFO - Linux version: 6.8.0-38-generic, language: en-US
+Jul 15, 2024 20:25:10.617 [139478482037560] INFO - Processor: 4-core        Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz
+Jul 15, 2024 20:25:10.617 [139478482037560] INFO - Compiler is - Clang 11.0.1 (https://plex.tv 9b997da8e5b47bdb4a9425b3a3b290be393b4b1f)
+Jul 15, 2024 20:25:10.617 [139478482037560] INFO - /usr/lib/plexmediaserver/Plex Media Server
+Jul 15, 2024 20:25:10.620 [139478487390864] DEBUG - BPQ: [Idle] -> [Starting]
+Jul 15, 2024 20:25:10.621 [139478487390864] DEBUG - FeatureManager: Using cached data for features list
+Jul 15, 2024 20:25:10.701 [139478487390864] DEBUG - HttpServer: Listening on IPv6 as well as IPv4.
+Jul 15, 2024 20:25:10.701 [139478487390864] DEBUG - HttpServer: Listening on port 32400.
+Jul 15, 2024 20:25:10.702 [139478487390864] DEBUG - HttpServer: Listening on port 32401.
+Jul 15, 2024 20:25:10.702 [139478487390864] DEBUG - Running server...
+Jul 15, 2024 20:25:10.702 [139478487390864] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Jul 15, 2024 20:25:10.709 [139478461066040] DEBUG - HttpServer: Set up a thread pool with 2 threads.
+Jul 15, 2024 20:25:10.837 [139478487390864] INFO - Running migrations. (EPG 0)
+Jul 15, 2024 20:25:10.839 [139478487390864] DEBUG - Captured session 0.
+Jul 15, 2024 20:25:10.840 [139478487390864] DEBUG - Captured session 1.
+Jul 15, 2024 20:25:10.840 [139478487390864] DEBUG - Captured session 2.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 3.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 4.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 5.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 6.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 7.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 8.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 9.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 10.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 11.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 12.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 13.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 14.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 15.
+Jul 15, 2024 20:25:10.841 [139478487390864] DEBUG - Captured session 16.
+Jul 15, 2024 20:25:10.842 [139478487390864] DEBUG - Captured session 17.
+Jul 15, 2024 20:25:10.842 [139478487390864] DEBUG - Captured session 18.
+Jul 15, 2024 20:25:10.842 [139478487390864] DEBUG - Captured session 19.
+Jul 15, 2024 20:25:10.851 [139478487390864] DEBUG - ChangestampAllocator: initialized to 0
+Jul 15, 2024 20:25:10.851 [139478487390864] DEBUG - Opening 2 database sessions to library (com.plexapp.plugins.library.blobs), SQLite 3.39.4, threadsafe=1
+Jul 15, 2024 20:25:10.861 [139478487390864] INFO - Running migrations. (EPG 0)
+Jul 15, 2024 20:25:10.862 [139478487390864] DEBUG - Captured session 0.
+Jul 15, 2024 20:25:10.862 [139478487390864] DEBUG - Captured session 1.
+Jul 15, 2024 20:25:10.865 [139478473648952] DEBUG - [GPU] Got device: 2nd Generation Core Processor Family Integrated Graphics Controller, intel@builtin, default true, best true, ID 8086:0116:17aa:3975@0000:00:02.0, DevID [8086:0116:17aa:3975], flags 0x421
+Jul 15, 2024 20:25:10.865 [139478473648952] INFO - Preemptively preparing driver ivd for GPU 2nd Generation Core Processor Family Integrated Graphics Controller
+Jul 15, 2024 20:25:10.865 [139478473648952] DEBUG - [DriverDL/ivd] Skipping download; already exists
+Jul 15, 2024 20:25:10.994 [139478487390864] DEBUG - Media Provider: Registering provider com.plexapp.plugins.library
+Jul 15, 2024 20:25:10.994 [139478473648952] DEBUG - Grabber: Cleaning up orphaned grabs.
+Jul 15, 2024 20:25:10.994 [139478473648952] DEBUG - Grabber: Cleaned up 0 decrepit directories in 0.0 sec.
+Jul 15, 2024 20:25:10.994 [139478473648952] DEBUG - MyPlex: mapping state set to 'Unknown'.
+Jul 15, 2024 20:25:10.994 [139478473648952] DEBUG - Relay: read 0 cached entries from hosts file
+Jul 15, 2024 20:25:10.995 [139478487390864] DEBUG - Auth: Refreshing tokens inside the token-based authentication filter.
+Jul 15, 2024 20:25:10.996 [139478487390864] DEBUG - Opening 1 database sessions to library (), SQLite 3.39.4, threadsafe=1
+Jul 15, 2024 20:25:10.996 [139478456871736] DEBUG - Auth: Refreshing tokens inside the token-based authentication filter.
+Jul 15, 2024 20:25:11.006 [139478444288824] DEBUG - File "/usr/lib/plexmediaserver/Resources/Plug-ins-424562606" changed: -1 => 2024-07-15 10:24:44 (1721035484).
+Jul 15, 2024 20:25:11.006 [139478444288824] DEBUG - File "/config/Library/Application Support/Plex Media Server/Plug-ins" changed: -1 => 2024-07-15 18:11:42 (1721063502).
+Jul 15, 2024 20:25:11.006 [139478444288824] DEBUG - Scanning for plug-ins in "/usr/lib/plexmediaserver/Resources/Plug-ins-424562606"
+Jul 15, 2024 20:25:11.021 [139478444288824] DEBUG - Scanning for plug-ins in "/config/Library/Application Support/Plex Media Server/Plug-ins"
+Jul 15, 2024 20:25:11.021 [139478444288824] DEBUG - PluginRepository::setStartState: 1, startingSystem
+Jul 15, 2024 20:25:11.021 [139478444288824] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-424562606/System.bundle.
+Jul 15, 2024 20:25:11.022 [139478444288824] DEBUG - [com.plexapp.system] Setting plug-in to always running (daemon mode).
+Jul 15, 2024 20:25:11.033 [139478444288824] DEBUG - Starting file watcher for com.plexapp.system
+Jul 15, 2024 20:25:11.033 [139478444288824] DEBUG - Plugin: setting environment variable: 'PYTHONHOME=/usr/lib/plexmediaserver/Resources/Python'
+Jul 15, 2024 20:25:11.033 [139478444288824] DEBUG - Plugin: setting environment variable: 'PYTHONPATH=/usr/lib/plexmediaserver/Resources/Python/python27.zip:/usr/lib/plexmediaserver/Resources/Python/lib/python2.7/site-packages'
+Jul 15, 2024 20:25:11.041 [139478444288824] DEBUG - Spawned plug-in com.plexapp.system with PID 250
+Jul 15, 2024 20:25:11.041 [139478444288824] DEBUG - [com.plexapp.system] Sending command: GET /:/prefixes
+Jul 15, 2024 20:25:11.601 [139478465260344] DEBUG - Request: didn't get any data from [::1]:43606: End of file
+Jul 15, 2024 20:25:11.628 [139478473648952] DEBUG - [MediaProviderManager] we had 0 cloud providers online, we now have 1
+Jul 15, 2024 20:25:11.628 [139478473648952] DEBUG - [MediaProviderManager] cloud provider (Metadata) is online and available
+Jul 15, 2024 20:25:11.630 [139478473648952] DEBUG - [MediaProviderManager/MetadataAgentManager] [tv.plex.agents.movie] provider added to map
+Jul 15, 2024 20:25:11.633 [139478473648952] DEBUG - [MediaProviderManager/MetadataAgentManager] [tv.plex.agents.series] provider added to map
+Jul 15, 2024 20:25:11.637 [139478473648952] DEBUG - [MediaProviderManager/MetadataAgentManager] [tv.plex.agents.music] provider added to map
+Jul 15, 2024 20:25:11.638 [139478473648952] DEBUG - [MediaProviderManager/MetadataAgentManager] [org.musicbrainz.agents.music] provider added to map
+Jul 15, 2024 20:25:11.720 [139478477843256] DEBUG - Shutting down with signal 15 (Terminated)
+Jul 15, 2024 20:25:11.720 [139478477843256] DEBUG - Ordered to stop server.
+Jul 15, 2024 20:25:11.722 [139478487390864] DEBUG - Killing plug-ins.
+Jul 15, 2024 20:25:12.617 [139478473648952] DEBUG - [JobRunner] exec of /usr/lib/plexmediaserver/CrashUploader cancelled. In shutdown state.
+Jul 15, 2024 20:25:14.296 [139478435900216] DEBUG - Request: [127.0.0.1:46730 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (3 live) #3 GZIP Token ()
+Jul 15, 2024 20:25:14.296 [139478465260344] DEBUG - Completed: [127.0.0.1:46730] 503 GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (3 live) #3 GZIP 0ms 436 bytes
+Jul 15, 2024 20:25:14.320 [139478435900216] DEBUG - Request: [127.0.0.1:46746 (Loopback)] GET / (3 live) #4 GZIP Token ()
+Jul 15, 2024 20:25:14.321 [139478465260344] DEBUG - Completed: [127.0.0.1:46746] 503 GET / (3 live) #4 GZIP 2ms 436 bytes

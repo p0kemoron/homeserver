@@ -1,0 +1,8 @@
+{
+    "Movies": {
+        "save_path": "movies"
+    },
+    "TV": {
+        "save_path": "tv"
+    }
+}

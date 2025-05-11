@@ -1,0 +1,2578 @@
+1
+00:00:10,802 --> 00:00:13,680
+VOUS ÉTIEZ LÀ. JE VOUS AI VU.
+
+2
+00:00:19,853 --> 00:00:20,812
+Vous êtes qui ?
+
+3
+00:00:22,439 --> 00:00:23,732
+Vous êtes qui ?
+
+4
+00:00:24,233 --> 00:00:26,401
+Vous me répondez ?
+C'est qui, putain ?
+
+5
+00:00:26,401 --> 00:00:27,319
+Merde.
+
+6
+00:00:29,571 --> 00:00:30,572
+C'est quoi, ce bordel ?
+
+7
+00:00:32,281 --> 00:00:33,742
+{\an8}<i>Vous êtes qui ?</i>
+
+8
+00:00:37,579 --> 00:00:38,622
+Rusty ?
+
+9
+00:00:39,706 --> 00:00:40,832
+C'était qui ?
+
+10
+00:00:49,633 --> 00:00:51,051
+On t'a vu où ?
+
+11
+00:01:00,769 --> 00:01:02,729
+J'imagine que ça veut dire
+
+12
+00:01:03,897 --> 00:01:05,190
+chez Carolyn...
+
+13
+00:01:07,609 --> 00:01:08,735
+ce soir-là.
+
+14
+00:01:22,541 --> 00:01:24,501
+J'y suis pas allé pour la tuer.
+
+15
+00:01:54,990 --> 00:01:58,994
+PRÉSUMÉ INNOCENT
+
+16
+00:02:07,294 --> 00:02:08,127
+Rusty.
+
+17
+00:02:08,878 --> 00:02:09,922
+C'est pas toi.
+
+18
+00:02:11,173 --> 00:02:13,342
+- Rusty, c'est pas toi.
+- Tu me connais pas.
+
+19
+00:02:13,509 --> 00:02:14,635
+Ni moi
+
+20
+00:02:14,635 --> 00:02:15,928
+ni de quoi je suis capable !
+
+21
+00:02:20,432 --> 00:02:21,391
+Debout, Raymond !
+
+22
+00:02:49,711 --> 00:02:51,129
+Tu le crois coupable.
+
+23
+00:02:51,129 --> 00:02:52,214
+C'était un rêve.
+
+24
+00:02:52,464 --> 00:02:53,465
+D'accord.
+
+25
+00:02:54,675 --> 00:02:58,053
+Tu as rêvé qu'il était coupable.
+Ce n'est pas anodin.
+
+26
+00:02:59,263 --> 00:03:01,473
+Les rêves indiquent souvent la vérité.
+
+27
+00:03:01,932 --> 00:03:04,476
+Ce serait sympa que tu sois de mon côté.
+
+28
+00:03:04,852 --> 00:03:06,019
+On essaie ?
+
+29
+00:03:06,228 --> 00:03:08,313
+Tu crois que je ne suis pas de ton côté ?
+
+30
+00:03:08,313 --> 00:03:09,481
+Raymond !
+
+31
+00:03:09,481 --> 00:03:11,316
+Je me fais du souci pour toi.
+
+32
+00:03:11,608 --> 00:03:14,945
+L'attention qu'attirent ces affaires,
+la pression...
+
+33
+00:03:16,697 --> 00:03:17,698
+Écoute.
+
+34
+00:03:17,698 --> 00:03:19,741
+Je comprends ta recherche de sens.
+
+35
+00:03:19,741 --> 00:03:21,827
+Tu as besoin de te lever le matin
+
+36
+00:03:21,827 --> 00:03:24,538
+en ayant quelque chose à faire
+pour retarder...
+
+37
+00:03:25,747 --> 00:03:26,623
+Comment, déjà ?
+
+38
+00:03:26,623 --> 00:03:27,916
+Ma putréfaction.
+
+39
+00:03:27,916 --> 00:03:30,210
+Oui, ta putréfaction.
+
+40
+00:03:38,218 --> 00:03:41,221
+Avec ton meilleur ami
+au banc des accusés.
+
+41
+00:03:43,432 --> 00:03:44,391
+Chéri...
+
+42
+00:03:46,476 --> 00:03:47,936
+Si tu perdais,
+
+43
+00:03:48,353 --> 00:03:50,856
+ce qui risque d'arriver, vu ce que je lis,
+
+44
+00:03:51,231 --> 00:03:54,193
+Rusty terminera ses jours en prison,
+
+45
+00:03:54,484 --> 00:03:56,361
+ce qui te brisera le cœur.
+
+46
+00:03:58,864 --> 00:04:01,158
+Tu arriveras peut-être à t'en accommoder,
+
+47
+00:04:01,617 --> 00:04:03,035
+mais j'en doute.
+
+48
+00:04:05,287 --> 00:04:07,623
+Sinon, il y a l'autre éventualité.
+
+49
+00:04:10,209 --> 00:04:11,627
+Que tu gagnes.
+
+50
+00:04:15,255 --> 00:04:16,923
+Rusty n'a pas fait ça.
+
+51
+00:04:19,301 --> 00:04:23,680
+<i>Rusty Sabich, unique suspect
+du meurtre atroce de Carolyn Polhemus,</i>
+
+52
+00:04:24,181 --> 00:04:26,141
+<i>est en liberté sous caution,</i>
+
+53
+00:04:26,141 --> 00:04:28,852
+<i>confiné avec les siens à domicile.</i>
+
+54
+00:04:31,605 --> 00:04:33,482
+Y a du rapace, dehors.
+
+55
+00:04:33,482 --> 00:04:35,025
+Ils ont pas de vraie info ?
+
+56
+00:04:35,025 --> 00:04:36,944
+C'est nous, l'info.
+
+57
+00:04:37,236 --> 00:04:39,780
+Les vrais crimes, ça excite l'audimat.
+
+58
+00:04:49,081 --> 00:04:50,249
+- Merci.
+- Tiens, mon cœur.
+
+59
+00:04:59,967 --> 00:05:02,386
+SILOS ABANDONNÉS. QUINZE HEURES.
+VENEZ SEUL.
+
+60
+00:05:07,808 --> 00:05:09,643
+Tu vois pas qui ça peut être ?
+
+61
+00:05:09,643 --> 00:05:12,688
+Ça peut très bien être un piège, ou...
+
+62
+00:05:14,439 --> 00:05:16,024
+un petit malin de journaliste.
+
+63
+00:05:16,024 --> 00:05:17,943
+Et donc, cette personne
+
+64
+00:05:18,610 --> 00:05:21,363
+a su que tu étais sur place ce soir-là ?
+
+65
+00:05:25,242 --> 00:05:26,243
+Moi pas.
+
+66
+00:05:30,205 --> 00:05:31,582
+J'y suis passé après le boulot.
+
+67
+00:05:32,583 --> 00:05:36,211
+Donc, vous n'aviez pas vraiment rompu,
+comme tu l'as prétendu.
+
+68
+00:05:36,211 --> 00:05:39,673
+On avait rompu.
+J'y suis allé pour renouer.
+
+69
+00:05:39,673 --> 00:05:41,049
+Ça a marché ?
+
+70
+00:05:41,383 --> 00:05:42,342
+Non.
+
+71
+00:05:45,095 --> 00:05:46,221
+Lorraine...
+
+72
+00:05:49,641 --> 00:05:51,185
+Montre ça à la police.
+
+73
+00:05:51,852 --> 00:05:54,271
+Tu veux pas savoir ce que ça veut dire ?
+
+74
+00:05:55,189 --> 00:05:56,356
+Qui c'est ?
+
+75
+00:05:57,482 --> 00:05:59,359
+Ça pourrait nous péter à la gueule.
+
+76
+00:06:03,280 --> 00:06:05,240
+- Demande à Rigo d'y aller.
+- Non.
+
+77
+00:06:05,240 --> 00:06:08,035
+Je l'ai déjà trop impliquée, je peux pas.
+
+78
+00:06:08,368 --> 00:06:09,953
+Si tu y vas,
+
+79
+00:06:10,370 --> 00:06:12,331
+il est probable que cette personne
+
+80
+00:06:12,331 --> 00:06:14,416
+aura un micro sur elle.
+
+81
+00:06:15,209 --> 00:06:18,879
+Alors, quoi que tu dises, un conseil :
+
+82
+00:06:20,422 --> 00:06:22,591
+reste simple, factuel.
+
+83
+00:06:22,841 --> 00:06:23,926
+Pèse tes mots.
+
+84
+00:06:24,843 --> 00:06:27,679
+Dis pas que t'as frappé Carolyn
+avec un tisonnier.
+
+85
+00:06:29,139 --> 00:06:30,724
+J'embauche une collaboratrice
+
+86
+00:06:30,724 --> 00:06:32,893
+qui a fait ses armes à la défense.
+
+87
+00:06:32,893 --> 00:06:35,521
+Une jeune, Mya Winslow.
+
+88
+00:06:35,521 --> 00:06:37,105
+- D'où je la connais ?
+- Yale.
+
+89
+00:06:37,105 --> 00:06:39,149
+Elle a bossé chez Sandy Stern.
+
+90
+00:06:39,858 --> 00:06:42,402
+Et c'est une femme, ça nous sera utile.
+
+91
+00:06:42,402 --> 00:06:44,947
+Elle va vérifier
+les preuves scientifiques.
+
+92
+00:06:45,614 --> 00:06:47,866
+Faut qu'on fasse le point là-dessus.
+
+93
+00:06:49,701 --> 00:06:51,662
+Parlons un peu stratégie.
+
+94
+00:06:52,829 --> 00:06:56,583
+Si on part sur un alibi,
+il faut le déposer au dossier.
+
+95
+00:06:57,501 --> 00:06:58,794
+On part sur un alibi ?
+
+96
+00:07:04,091 --> 00:07:06,844
+On ne connaît pas l'heure de sa mort.
+
+97
+00:07:07,469 --> 00:07:10,514
+On n'a qu'à dire qu'elle a été tuée
+quand je suis allé...
+
+98
+00:07:12,516 --> 00:07:14,017
+On va attendre
+
+99
+00:07:14,434 --> 00:07:16,687
+que tous les faits soient exposés
+
+100
+00:07:17,729 --> 00:07:20,482
+avant que tu élabores des réponses.
+
+101
+00:07:38,709 --> 00:07:39,710
+Mme Sabich.
+
+102
+00:07:40,002 --> 00:07:42,254
+Barbara, votre mari est-il l'assassin ?
+
+103
+00:07:54,057 --> 00:07:56,393
+- Tu sais de quoi il s'agit ?
+- Quoi ?
+
+104
+00:07:58,228 --> 00:07:59,771
+Pourquoi je suis là un mardi.
+
+105
+00:08:00,230 --> 00:08:01,315
+Oui.
+
+106
+00:08:01,732 --> 00:08:03,150
+On doit parler
+
+107
+00:08:04,610 --> 00:08:06,445
+du capitaine des pompiers, pour Marty ?
+
+108
+00:08:07,946 --> 00:08:10,324
+Je voudrais que tu prennes
+un peu de distance.
+
+109
+00:08:14,995 --> 00:08:15,829
+Comment ça ?
+
+110
+00:08:16,747 --> 00:08:19,166
+Je suis entrée par la même porte que toi.
+
+111
+00:08:20,250 --> 00:08:21,418
+Kate...
+
+112
+00:08:22,127 --> 00:08:23,420
+Ça va se tasser.
+
+113
+00:08:23,754 --> 00:08:27,007
+On est à Chicago.
+Il y a un mort toutes les 18 secondes.
+
+114
+00:08:27,174 --> 00:08:28,592
+Tu ne vas pas bien.
+
+115
+00:08:30,636 --> 00:08:33,429
+J'ai fait une vente il y a deux semaines.
+
+116
+00:08:33,429 --> 00:08:35,057
+Non. Tu as fait une vente
+
+117
+00:08:35,432 --> 00:08:39,394
+il y a cinq semaines
+alors qu'Aminata fait un malheur.
+
+118
+00:08:41,270 --> 00:08:43,524
+- Prends un congé.
+- T'es sérieuse ?
+
+119
+00:08:44,149 --> 00:08:46,652
+Je ne te vire pas, du calme.
+Je dis juste...
+
+120
+00:08:48,028 --> 00:08:49,530
+arrête-toi un moment
+
+121
+00:08:51,114 --> 00:08:52,407
+et prends soin de toi.
+
+122
+00:08:54,368 --> 00:08:55,661
+Et je reste à l'écart.
+
+123
+00:08:56,078 --> 00:08:57,454
+Ça aussi, oui.
+
+124
+00:09:01,917 --> 00:09:04,962
+Kate, j'ai vraiment besoin de ce travail.
+
+125
+00:09:05,504 --> 00:09:06,547
+J'ai besoin
+
+126
+00:09:06,713 --> 00:09:09,132
+de me changer les idées à tout prix.
+
+127
+00:09:10,092 --> 00:09:12,594
+C'est trop cher payé pour nous.
+
+128
+00:09:14,847 --> 00:09:16,014
+Prends un congé.
+
+129
+00:09:19,518 --> 00:09:20,727
+Un conseil ?
+
+130
+00:09:21,770 --> 00:09:22,813
+Pourquoi pas ?
+
+131
+00:09:22,813 --> 00:09:24,523
+Démarque-toi.
+
+132
+00:09:25,274 --> 00:09:26,775
+Tu n'es pas "nous".
+
+133
+00:09:27,234 --> 00:09:28,360
+Tu n'es pas lui.
+
+134
+00:09:38,245 --> 00:09:40,581
+Sam Malone coupait des citrons.
+
+135
+00:09:41,623 --> 00:09:42,457
+Pardon ?
+
+136
+00:09:42,708 --> 00:09:45,127
+Sam Malone de <i>Cheers</i>.
+
+137
+00:09:46,461 --> 00:09:48,463
+Il coupait des citrons tout le temps,
+
+138
+00:09:48,881 --> 00:09:50,716
+du matin au soir.
+
+139
+00:09:52,009 --> 00:09:54,178
+Vous êtes trop jeune
+pour vous en souvenir.
+
+140
+00:09:54,178 --> 00:09:55,762
+Je connais <i>Cheers</i>, j'adore.
+
+141
+00:09:55,762 --> 00:09:57,306
+Ted Danson, mon modèle.
+
+142
+00:09:58,307 --> 00:09:59,516
+Bravo !
+
+143
+00:10:03,437 --> 00:10:04,271
+Ça va ?
+
+144
+00:10:05,063 --> 00:10:07,107
+Bof, je viens de perdre mon boulot.
+
+145
+00:10:07,107 --> 00:10:08,108
+Merde.
+
+146
+00:10:08,692 --> 00:10:09,860
+Désolé.
+
+147
+00:10:12,988 --> 00:10:15,240
+Et mon mari est accusé de meurtre.
+
+148
+00:10:16,575 --> 00:10:19,369
+Le meurtre de sa maîtresse, qui plus est.
+
+149
+00:10:21,038 --> 00:10:22,331
+Ah merde, oui !
+
+150
+00:10:23,415 --> 00:10:24,791
+Comment, déjà... Ronnie.
+
+151
+00:10:25,000 --> 00:10:26,001
+Ricky ?
+
+152
+00:10:30,005 --> 00:10:30,964
+Rusty.
+
+153
+00:10:32,549 --> 00:10:33,675
+Vous en bavez.
+
+154
+00:10:35,344 --> 00:10:36,678
+Effectivement.
+
+155
+00:10:39,389 --> 00:10:40,599
+C'est vrai ?
+
+156
+00:10:41,266 --> 00:10:42,142
+Il l'a tuée ?
+
+157
+00:10:43,477 --> 00:10:45,562
+Ouh là... Me répondez pas.
+
+158
+00:10:45,896 --> 00:10:47,022
+J'abuse, désolé.
+
+159
+00:10:47,022 --> 00:10:48,398
+Pas vraiment.
+
+160
+00:10:49,024 --> 00:10:50,859
+Tout le monde pose cette question.
+
+161
+00:10:52,236 --> 00:10:53,237
+Vous répondez quoi ?
+
+162
+00:10:56,156 --> 00:10:57,824
+Il ne l'a pas tuée.
+
+163
+00:11:01,662 --> 00:11:04,289
+Les jolies femmes ont beaucoup d'ennemis.
+
+164
+00:11:05,791 --> 00:11:07,417
+Vous devez en avoir pas mal.
+
+165
+00:11:10,838 --> 00:11:12,381
+Je vous vois venir.
+
+166
+00:11:18,220 --> 00:11:19,263
+Merci.
+
+167
+00:11:23,100 --> 00:11:24,226
+Un autre ?
+
+168
+00:11:27,563 --> 00:11:28,814
+Il vaut mieux pas.
+
+169
+00:11:41,285 --> 00:11:42,327
+Il est pas mal.
+
+170
+00:11:44,121 --> 00:11:47,040
+Il est très beau, c'est vrai.
+
+171
+00:11:48,333 --> 00:11:49,293
+Mais...
+
+172
+00:11:50,210 --> 00:11:52,337
+je sais pas, j'aime lui parler.
+
+173
+00:11:54,840 --> 00:11:55,924
+Il t'a fait sourire.
+
+174
+00:11:59,136 --> 00:12:01,513
+Accorde-toi peut-être une petite...
+
+175
+00:12:01,513 --> 00:12:02,556
+aventure.
+
+176
+00:12:04,558 --> 00:12:05,601
+Je t'en prie.
+
+177
+00:12:06,143 --> 00:12:08,395
+Avec les médias à mes basques ?
+
+178
+00:12:08,395 --> 00:12:09,730
+Ils me lâchent pas.
+
+179
+00:12:11,106 --> 00:12:14,610
+Ils sont passés à autre chose,
+ils ont un autre cadavre en vue.
+
+180
+00:12:14,610 --> 00:12:16,904
+Les joies de la vie à Chicago.
+
+181
+00:12:16,904 --> 00:12:18,280
+Pas sûr.
+
+182
+00:12:18,739 --> 00:12:20,282
+C'est bon de te voir sourire.
+
+183
+00:12:21,158 --> 00:12:23,243
+Tu es jeune, tu es belle.
+
+184
+00:12:23,577 --> 00:12:26,246
+Tu mérites de ressentir ça
+tous les jours.
+
+185
+00:12:26,246 --> 00:12:28,749
+Tu as un poids énorme sur les épaules.
+
+186
+00:12:30,459 --> 00:12:34,546
+Tu me suggères vraiment
+d'entamer une petite...
+
+187
+00:12:35,589 --> 00:12:39,718
+liaison extraconjugale vengeresse
+avec un barman que je connais à peine ?
+
+188
+00:12:39,718 --> 00:12:43,096
+Je te suggère de prendre soin de toi.
+
+189
+00:12:44,139 --> 00:12:48,018
+D'ouvrir un peu les vannes
+pour t'aider à passer le cap.
+
+190
+00:12:48,727 --> 00:12:50,312
+Pas maintenant, bien sûr,
+
+191
+00:12:50,312 --> 00:12:51,730
+avec tout ce qui se passe.
+
+192
+00:12:51,730 --> 00:12:53,732
+Mais à un moment donné.
+
+193
+00:12:54,942 --> 00:12:56,902
+J'admire ta combativité,
+
+194
+00:12:58,987 --> 00:13:02,616
+ta détermination à rester amoureuse
+de l'homme que tu as épousé.
+
+195
+00:13:06,411 --> 00:13:08,872
+Rusty n'est plus l'homme que tu as épousé.
+
+196
+00:13:08,872 --> 00:13:10,499
+Soyons honnêtes.
+
+197
+00:13:16,922 --> 00:13:19,299
+Je vous ai ordonné de laisser tomber.
+
+198
+00:13:19,299 --> 00:13:20,676
+- Je l'ai fait.
+- Faux !
+
+199
+00:13:20,676 --> 00:13:22,636
+Vous avez vu Reynolds en prison.
+
+200
+00:13:22,803 --> 00:13:24,888
+C'était sur mon temps libre.
+
+201
+00:13:25,055 --> 00:13:26,348
+Vous vous croyez drôle ?
+
+202
+00:13:26,557 --> 00:13:28,767
+À quoi bon, vous n'avez aucun humour.
+
+203
+00:13:29,643 --> 00:13:30,894
+- Ce qui est drôle...
+- Quoi ?
+
+204
+00:13:30,894 --> 00:13:32,688
+C'est même tordant :
+
+205
+00:13:32,688 --> 00:13:34,690
+vous n'enquêtez pas sur Reynolds.
+
+206
+00:13:34,690 --> 00:13:37,568
+Carolyn était ligotée comme Bunny Davis,
+info non publique...
+
+207
+00:13:37,568 --> 00:13:39,236
+Liam Reynolds est incarcéré.
+
+208
+00:13:39,236 --> 00:13:41,780
+On s'en fout.
+Il l'a menacée, il avait un mobile
+
+209
+00:13:41,780 --> 00:13:43,198
+et vous fermez les yeux.
+
+210
+00:13:43,198 --> 00:13:44,324
+Écoutez, lieutenant...
+
+211
+00:13:44,324 --> 00:13:47,327
+Sinon, vous me virez ?
+Au bout de 15 jours, j'en doute.
+
+212
+00:13:47,578 --> 00:13:49,246
+Vous auriez le syndicat au cul.
+
+213
+00:13:49,705 --> 00:13:51,748
+Ou pas. Vous avez des fans.
+
+214
+00:13:51,748 --> 00:13:53,000
+Lieutenant Rodriguez,
+
+215
+00:13:53,500 --> 00:13:54,751
+je vous raccompagne.
+
+216
+00:13:59,965 --> 00:14:02,259
+Vous n'êtes pas sur cette affaire.
+
+217
+00:14:02,259 --> 00:14:04,303
+Cessez de vous en mêler.
+
+218
+00:14:04,303 --> 00:14:07,389
+Je joue au poker
+avec le chef de votre syndicat.
+
+219
+00:14:07,389 --> 00:14:08,849
+Il joue comme un pied.
+
+220
+00:14:08,849 --> 00:14:11,268
+Vous voulez la tête de Rusty, c'est ça ?
+
+221
+00:14:12,686 --> 00:14:14,188
+Nous voulons la justice.
+
+222
+00:14:14,188 --> 00:14:17,566
+Prenez soin de vous tenir
+hors de notre chemin.
+
+223
+00:14:19,902 --> 00:14:20,944
+Merci.
+
+224
+00:14:49,556 --> 00:14:50,891
+Rends-moi service.
+
+225
+00:14:51,850 --> 00:14:53,519
+Descends au labo
+
+226
+00:14:53,519 --> 00:14:56,146
+et remonte-moi tout sur Bunny Davis.
+
+227
+00:15:15,415 --> 00:15:19,461
+SILOS ABANDONNÉS. QUINZE HEURES.
+VENEZ SEUL.
+
+228
+00:16:43,128 --> 00:16:43,962
+Michael ?
+
+229
+00:16:47,799 --> 00:16:51,178
+Tu m'as demandé de venir.
+Qu'est-ce que tu veux ?
+
+230
+00:16:54,223 --> 00:16:55,641
+Pourquoi vous l'avez tuée ?
+
+231
+00:16:58,894 --> 00:17:00,187
+Je ne l'ai pas tuée.
+
+232
+00:17:01,396 --> 00:17:02,981
+J'avais une relation avec elle.
+
+233
+00:17:03,232 --> 00:17:06,318
+Je te dirai tout ce que tu veux savoir.
+
+234
+00:17:07,361 --> 00:17:09,530
+Je veux savoir qui l'a tuée
+
+235
+00:17:09,946 --> 00:17:11,240
+autant que toi.
+
+236
+00:17:11,240 --> 00:17:14,034
+C'est marrant, j'ai des photos de vous.
+
+237
+00:17:16,161 --> 00:17:16,994
+Tu as quoi ?
+
+238
+00:17:17,246 --> 00:17:18,329
+Des photos
+
+239
+00:17:18,704 --> 00:17:19,957
+et des vidéos
+
+240
+00:17:19,957 --> 00:17:22,291
+de vous, le soir de sa mort.
+
+241
+00:17:22,917 --> 00:17:23,752
+Où ?
+
+242
+00:17:24,252 --> 00:17:25,170
+Chez elle !
+
+243
+00:17:26,588 --> 00:17:28,048
+Des photos de ce soir-là ?
+
+244
+00:17:29,716 --> 00:17:30,926
+Réponds-moi.
+
+245
+00:17:31,260 --> 00:17:33,428
+Tu as des photos de ce soir-là ?
+
+246
+00:17:33,428 --> 00:17:36,849
+Des photos d'autres personnes
+qui sont passées chez elle ?
+
+247
+00:17:37,224 --> 00:17:39,935
+Vous êtes le seul à être venu.
+
+248
+00:17:42,104 --> 00:17:43,647
+Apparemment,
+
+249
+00:17:45,107 --> 00:17:46,316
+tu y étais aussi.
+
+250
+00:17:46,733 --> 00:17:47,568
+Fermez-la !
+
+251
+00:17:48,277 --> 00:17:49,444
+Tu as bien réfléchi ?
+
+252
+00:17:50,779 --> 00:17:52,531
+Tu y es allé d'autres soirs ?
+
+253
+00:17:54,157 --> 00:17:55,492
+Si tu as des photos,
+
+254
+00:17:55,742 --> 00:17:57,494
+il faut absolument
+
+255
+00:17:57,828 --> 00:18:00,038
+me les donner à moi ou à la police.
+
+256
+00:18:00,831 --> 00:18:02,416
+Je les ai données à la police.
+
+257
+00:18:02,708 --> 00:18:04,751
+J'ai vu le procureur général.
+
+258
+00:18:05,961 --> 00:18:07,588
+Alors, qu'est-ce qu'on fait ici ?
+
+259
+00:18:10,215 --> 00:18:11,717
+Je voulais vous voir en face.
+
+260
+00:18:13,385 --> 00:18:14,428
+Te voir en face ?
+
+261
+00:18:14,636 --> 00:18:15,804
+Pourquoi ?
+
+262
+00:18:16,013 --> 00:18:17,306
+Ça colle pas.
+
+263
+00:18:18,140 --> 00:18:20,309
+C'était une conversation très étrange
+
+264
+00:18:20,309 --> 00:18:22,811
+et il est perturbé, comme tu le disais.
+
+265
+00:18:24,062 --> 00:18:26,940
+Mais ça prouve
+que j'étais pas le seul sur place.
+
+266
+00:18:27,274 --> 00:18:29,234
+T'es sûr qu'il n'était pas microté ?
+
+267
+00:18:29,234 --> 00:18:30,444
+J'ai fait gaffe.
+
+268
+00:18:30,777 --> 00:18:32,237
+Mya Winslow, Rusty Sabich.
+
+269
+00:18:32,988 --> 00:18:35,824
+J'ai demandé à Mya
+d'assister à la réunion préparatoire.
+
+270
+00:18:36,116 --> 00:18:38,160
+- Il faut vous enregistrer.
+- C'est fait.
+
+271
+00:18:38,285 --> 00:18:39,119
+Excellent.
+
+272
+00:18:39,119 --> 00:18:40,495
+Ravie de vous rencontrer.
+
+273
+00:18:40,495 --> 00:18:42,206
+Malgré les circonstances.
+
+274
+00:18:42,873 --> 00:18:44,791
+Vous observerez en silence.
+
+275
+00:18:44,791 --> 00:18:46,418
+Toi, tu la fermes.
+
+276
+00:18:46,418 --> 00:18:47,794
+Pas un mot.
+
+277
+00:18:48,420 --> 00:18:49,755
+Fous pas le bordel.
+
+278
+00:18:54,092 --> 00:18:55,761
+Tu fous le bordel.
+
+279
+00:18:57,596 --> 00:18:59,973
+- Tu fous le bordel.
+- Pourquoi ?
+
+280
+00:19:03,268 --> 00:19:05,896
+La partie où on tombe amoureux.
+
+281
+00:19:06,730 --> 00:19:08,023
+On s'était promis d'éviter.
+
+282
+00:19:10,943 --> 00:19:13,570
+Je pense pas que ça se maîtrise.
+
+283
+00:19:13,779 --> 00:19:15,906
+Il y a des choses qui se maîtrisent.
+
+284
+00:19:17,824 --> 00:19:19,493
+Et c'est à moi de...
+
+285
+00:19:20,327 --> 00:19:21,662
+de les maîtriser.
+
+286
+00:19:25,332 --> 00:19:27,167
+1er onglet : les éléments de procédure.
+
+287
+00:19:29,127 --> 00:19:31,797
+Bilans pathologiques et biologiques,
+2e onglet.
+
+288
+00:19:31,797 --> 00:19:35,175
+Cette partie, incomplète,
+est mise à jour quotidiennement.
+
+289
+00:19:35,175 --> 00:19:36,677
+Elle sera prête quand ?
+
+290
+00:19:36,677 --> 00:19:38,095
+Dans 10 jours, Mme la juge.
+
+291
+00:19:38,971 --> 00:19:41,640
+Photos et vidéos, 3e onglet.
+
+292
+00:19:41,640 --> 00:19:45,018
+Bientôt complété
+par des images de vidéoprotection.
+
+293
+00:19:45,936 --> 00:19:47,271
+Conclusions médicales,
+
+294
+00:19:47,729 --> 00:19:49,231
+4e onglet.
+
+295
+00:19:50,774 --> 00:19:52,776
+Pièces et bilans scientifiques,
+
+296
+00:19:52,776 --> 00:19:53,902
+onglets 5 et 6.
+
+297
+00:19:53,902 --> 00:19:54,862
+Un problème ?
+
+298
+00:19:55,070 --> 00:19:56,154
+Une seconde.
+
+299
+00:19:56,154 --> 00:19:58,532
+- Vous voulez que je témoigne.
+- En effet.
+
+300
+00:19:58,532 --> 00:20:00,951
+L'une des charges
+est l'entrave à la justice.
+
+301
+00:20:00,951 --> 00:20:03,537
+M. Sabich a freiné l'enquête.
+
+302
+00:20:03,537 --> 00:20:06,832
+Il l'a même compromise,
+et vous avez des informations.
+
+303
+00:20:06,832 --> 00:20:08,041
+C'est une combine.
+
+304
+00:20:08,041 --> 00:20:09,751
+Excusez-moi. Je fais vite.
+
+305
+00:20:10,377 --> 00:20:14,173
+Vous assurez la défense tout en détenant
+des informations à charge.
+
+306
+00:20:14,590 --> 00:20:15,716
+Grossière erreur.
+
+307
+00:20:15,716 --> 00:20:17,050
+M. Délai Guardia.
+
+308
+00:20:17,050 --> 00:20:19,887
+Vous citez la Dr Rush,
+psychiatre de mon client.
+
+309
+00:20:19,887 --> 00:20:23,223
+Certains sujets
+seront sans doute protégés par le secret.
+
+310
+00:20:23,223 --> 00:20:25,934
+La Dr Rush pourrait l'invoquer,
+le cas échéant.
+
+311
+00:20:25,934 --> 00:20:28,312
+- Elle le fera.
+- "Le cas échéant" ?
+
+312
+00:20:28,312 --> 00:20:29,855
+Elle invoquera le secret
+
+313
+00:20:29,855 --> 00:20:32,065
+et il prétendra
+qu'on retient des éléments.
+
+314
+00:20:32,065 --> 00:20:33,775
+Nous respecterons le secret.
+
+315
+00:20:33,775 --> 00:20:34,860
+Messieurs,
+
+316
+00:20:34,860 --> 00:20:37,487
+nous ne partons pas d'un bon pied.
+
+317
+00:20:37,487 --> 00:20:40,574
+Laissez-nous présenter l'affaire,
+Mme la juge.
+
+318
+00:20:42,951 --> 00:20:45,454
+À mes débuts, j'avais un mentor.
+
+319
+00:20:45,996 --> 00:20:47,456
+Il m'a dit :
+
+320
+00:20:47,456 --> 00:20:49,833
+"Un procès,
+c'est une sorte d'hémorroïde."
+
+321
+00:20:50,876 --> 00:20:52,711
+Les hémorroïdes ne me gênent pas.
+
+322
+00:20:52,711 --> 00:20:54,922
+Bien gérées, je peux même les apprécier.
+
+323
+00:20:58,175 --> 00:20:59,760
+Là, ça ne m'amuse pas.
+
+324
+00:21:01,512 --> 00:21:05,390
+Il va s'agir de preuves et de loi,
+pas de stratagèmes.
+
+325
+00:21:05,390 --> 00:21:07,643
+Est-ce parfaitement clair ?
+
+326
+00:21:07,643 --> 00:21:09,394
+- Très clair.
+- Bien dit, merci.
+
+327
+00:21:12,147 --> 00:21:13,357
+Je rappelle
+
+328
+00:21:13,357 --> 00:21:17,152
+que l'accusation doit communiquer
+tout élément à décharge.
+
+329
+00:21:17,528 --> 00:21:19,404
+- Nous l'avons fait.
+- Vraiment ?
+
+330
+00:21:19,404 --> 00:21:23,075
+Nous avons soumis
+tous les éléments à décharge, comme exigé.
+
+331
+00:21:23,075 --> 00:21:26,662
+Si vous aviez la preuve
+que quelqu'un d'autre avait un mobile...
+
+332
+00:21:26,662 --> 00:21:27,663
+Il n'y en a pas.
+
+333
+00:21:27,663 --> 00:21:31,208
+Ou que quelqu'un d'autre
+était sur les lieux ce soir-là...
+
+334
+00:21:33,710 --> 00:21:35,462
+avec un appareil photo,
+
+335
+00:21:36,129 --> 00:21:38,173
+qu'il y a des photos et des vidéos...
+
+336
+00:21:43,178 --> 00:21:44,513
+M. Molto ?
+
+337
+00:21:45,430 --> 00:21:46,557
+C'est bon.
+
+338
+00:21:47,057 --> 00:21:49,142
+Les photographies reçues
+
+339
+00:21:49,142 --> 00:21:51,019
+sont en cours d'authentification.
+
+340
+00:21:51,353 --> 00:21:54,231
+Une fois authentifiées,
+nous les transmettrons à la défense.
+
+341
+00:21:54,231 --> 00:21:57,609
+Qui a fourni ces pièces photographiques ?
+
+342
+00:21:59,152 --> 00:22:00,279
+Le fils de la victime.
+
+343
+00:22:02,114 --> 00:22:04,992
+- Quand ?
+- L'analyse est en cours.
+
+344
+00:22:04,992 --> 00:22:07,411
+- Les révéler serait prématuré.
+- Je vois.
+
+345
+00:22:08,370 --> 00:22:10,706
+Vous soumettrez ces pièces aujourd'hui
+
+346
+00:22:10,706 --> 00:22:12,249
+à la défense et à moi-même,
+
+347
+00:22:12,958 --> 00:22:16,211
+afin que nous les analysions ensemble,
+entendu ?
+
+348
+00:22:17,379 --> 00:22:19,006
+Et M. Molto,
+
+349
+00:22:19,256 --> 00:22:21,341
+nous sommes à 10 semaines du procès.
+
+350
+00:22:21,341 --> 00:22:24,553
+Si vous dissimulez un autre élément,
+
+351
+00:22:24,553 --> 00:22:28,390
+votre arrière-train sera le premier recoin
+où j'irai fourrer mon nez.
+
+352
+00:22:29,433 --> 00:22:30,684
+Raymond buvait du petit-lait,
+
+353
+00:22:30,934 --> 00:22:32,102
+il était déchaîné.
+
+354
+00:22:32,102 --> 00:22:33,353
+Et Tommy
+
+355
+00:22:33,353 --> 00:22:35,439
+buvait aussi du petit lait.
+
+356
+00:22:35,439 --> 00:22:36,773
+Tu m'étonnes.
+
+357
+00:22:37,191 --> 00:22:40,736
+La juge a accepté
+qu'on accède à la scène de crime.
+
+358
+00:22:40,736 --> 00:22:43,071
+En général, la défense n'a pas le droit.
+
+359
+00:22:43,071 --> 00:22:45,365
+- Bonne journée, donc ?
+- Un bon début.
+
+360
+00:22:46,158 --> 00:22:48,202
+Tant mieux. On va peut-être gagner.
+
+361
+00:22:48,202 --> 00:22:51,079
+Ce sera génial, les journalistes diront :
+
+362
+00:22:51,079 --> 00:22:54,499
+"Rusty Sabich,
+vous avez gagné le Super Bowl des procès.
+
+363
+00:22:54,499 --> 00:22:56,126
+Quels sont vos projets ?"
+
+364
+00:22:57,002 --> 00:22:59,171
+Et tu diras : "On va à Disneyland."
+
+365
+00:23:06,887 --> 00:23:08,972
+Qu'est-ce qu'ils ont contre toi ?
+
+366
+00:23:09,389 --> 00:23:10,766
+Jaden, pas à table.
+
+367
+00:23:10,766 --> 00:23:13,101
+- Si. Tout le monde en parle.
+- On dîne !
+
+368
+00:23:13,101 --> 00:23:15,354
+Aux infos, au lycée...
+
+369
+00:23:15,854 --> 00:23:18,232
+Je veux savoir où on en est.
+
+370
+00:23:18,232 --> 00:23:20,442
+Qu'est-ce qu'ils ont, exactement ?
+
+371
+00:23:32,996 --> 00:23:34,289
+C'est indirect.
+
+372
+00:23:34,873 --> 00:23:37,000
+Personne ne dira qu'il m'a vu la tuer,
+
+373
+00:23:37,000 --> 00:23:39,127
+parce que je ne l'ai pas tuée.
+
+374
+00:23:39,127 --> 00:23:41,004
+Mais j'y étais, ce soir-là.
+
+375
+00:23:41,880 --> 00:23:46,260
+Il y a mon ADN partout chez elle,
+et le sien dans ma voiture.
+
+376
+00:23:47,344 --> 00:23:49,638
+Ils vont dire qu'elle m'obsédait
+
+377
+00:23:49,972 --> 00:23:53,475
+parce qu'on a échangé
+énormément de textos.
+
+378
+00:23:53,475 --> 00:23:57,354
+Ils venaient surtout de moi,
+ces dernières semaines.
+
+379
+00:23:57,354 --> 00:24:00,566
+Et évidemment, il y a le fait
+qu'elle était enceinte de...
+
+380
+00:24:05,070 --> 00:24:08,156
+Et elle était ligotée
+comme une précédente victime.
+
+381
+00:24:08,156 --> 00:24:10,701
+Le tueur devait avoir des infos
+
+382
+00:24:10,701 --> 00:24:12,786
+qui n'ont jamais été révélées.
+
+383
+00:24:14,538 --> 00:24:16,832
+Carolyn et moi
+étions les seuls au courant,
+
+384
+00:24:16,832 --> 00:24:19,042
+donc ils vont affirmer
+
+385
+00:24:19,042 --> 00:24:22,546
+que moi seul avais la possibilité
+
+386
+00:24:22,754 --> 00:24:25,132
+d'imiter le mode opératoire d'un d'autre.
+
+387
+00:24:27,342 --> 00:24:30,179
+C'est indirect
+et franchement tiré par les cheveux,
+
+388
+00:24:30,179 --> 00:24:32,264
+mais c'est préjudiciable.
+
+389
+00:24:32,264 --> 00:24:35,684
+Et tous les éléments de preuve,
+même indirects, me désignent.
+
+390
+00:24:42,649 --> 00:24:43,650
+Et négocier la peine ?
+
+391
+00:24:45,777 --> 00:24:46,820
+T'y as pensé ?
+
+392
+00:24:47,821 --> 00:24:49,364
+- Quoi ?
+- Négocier la peine.
+
+393
+00:24:49,364 --> 00:24:50,282
+Kyle.
+
+394
+00:24:50,282 --> 00:24:52,367
+En plaidant coupable ?
+Tu m'accuses ?
+
+395
+00:24:52,618 --> 00:24:53,452
+Chéri.
+
+396
+00:24:53,452 --> 00:24:55,704
+S'ils proposent l'homicide involontaire...
+
+397
+00:24:55,704 --> 00:24:58,624
+Pourquoi plaider coupable
+alors que j'ai rien fait ?
+
+398
+00:24:58,624 --> 00:24:59,708
+Rusty.
+
+399
+00:24:59,708 --> 00:25:01,251
+Pour éviter perpète.
+
+400
+00:25:01,627 --> 00:25:03,212
+Homicide involontaire, c'est 8 ans.
+
+401
+00:25:03,629 --> 00:25:04,796
+Chéri.
+
+402
+00:25:57,349 --> 00:26:00,435
+- Il me croit coupable.
+- Pas du tout.
+
+403
+00:26:00,435 --> 00:26:02,896
+Alors pourquoi il me dit
+de plaider coupable ?
+
+404
+00:26:02,896 --> 00:26:04,273
+Parce qu'il a peur.
+
+405
+00:26:04,273 --> 00:26:06,149
+Ce gamin est terrifié
+
+406
+00:26:07,901 --> 00:26:10,195
+à l'idée qu'ils t'enferment à vie.
+
+407
+00:26:15,409 --> 00:26:18,453
+Tu crois que je devrais le faire ?
+
+408
+00:26:20,998 --> 00:26:22,332
+Et Jaden ?
+
+409
+00:26:24,459 --> 00:26:26,295
+Je devrais négocier la peine ?
+
+410
+00:26:26,295 --> 00:26:30,299
+Personne ici ne pense
+que tu devrais négocier la peine.
+
+411
+00:26:31,717 --> 00:26:33,177
+Kyle...
+
+412
+00:26:35,053 --> 00:26:36,263
+Il pensait tout haut.
+
+413
+00:26:36,763 --> 00:26:38,473
+Il pensait que je devrais
+
+414
+00:26:38,974 --> 00:26:40,392
+plaider coupable
+
+415
+00:26:41,143 --> 00:26:42,394
+d'un meurtre.
+
+416
+00:26:53,322 --> 00:26:55,365
+Tout le monde a peur, mon chéri.
+
+417
+00:27:01,288 --> 00:27:02,998
+Kate m'a demandé de...
+
+418
+00:27:03,749 --> 00:27:05,751
+"prendre de la distance", à la galerie.
+
+419
+00:27:05,751 --> 00:27:07,294
+Quoi ? Pourquoi ?
+
+420
+00:27:08,587 --> 00:27:10,005
+Ça nuit aux affaires.
+
+421
+00:27:11,173 --> 00:27:12,174
+Je suis désolé.
+
+422
+00:27:12,174 --> 00:27:13,091
+Papa !
+
+423
+00:27:24,019 --> 00:27:25,979
+Je voulais pas t'accuser.
+
+424
+00:27:26,438 --> 00:27:27,814
+Je suis désolé.
+
+425
+00:27:30,859 --> 00:27:32,569
+Ce que t'as dit sur les indices...
+
+426
+00:27:33,070 --> 00:27:34,279
+Je comprends.
+
+427
+00:27:35,656 --> 00:27:36,782
+Pardon.
+
+428
+00:27:37,282 --> 00:27:39,451
+Je t'en supplie, t'en va pas.
+
+429
+00:27:39,952 --> 00:27:40,786
+Excuse-moi.
+
+430
+00:28:04,935 --> 00:28:07,312
+- Laissons tomber l'entrave.
+- Pourquoi ?
+
+431
+00:28:07,604 --> 00:28:10,107
+On peut faire passer Rusty
+pour un menteur,
+
+432
+00:28:10,107 --> 00:28:12,651
+mais on doit prouver un homicide.
+
+433
+00:28:12,901 --> 00:28:15,195
+C'est une autre paire de manches.
+
+434
+00:28:15,487 --> 00:28:18,073
+Le jury va vouloir le faire tomber,
+c'est sûr,
+
+435
+00:28:18,073 --> 00:28:22,536
+mais il peut le condamner pour entrave
+sans l'épingler pour meurtre.
+
+436
+00:28:22,536 --> 00:28:24,454
+Ne mettons qu'un plat au menu.
+
+437
+00:28:24,454 --> 00:28:27,958
+Mais en ne respectant pas la procédure,
+il a freiné l'enquête,
+
+438
+00:28:27,958 --> 00:28:29,459
+ce qui l'accuse.
+
+439
+00:28:29,459 --> 00:28:31,295
+C'est tout ce que j'ai à dire.
+
+440
+00:28:31,295 --> 00:28:32,337
+Non ?
+
+441
+00:28:34,298 --> 00:28:35,465
+Tu es d'attaque ?
+
+442
+00:28:35,924 --> 00:28:37,551
+Pour plaider cette affaire ?
+
+443
+00:28:37,551 --> 00:28:38,635
+Oui, putain.
+
+444
+00:28:38,635 --> 00:28:40,179
+Carrément, putain.
+
+445
+00:28:40,596 --> 00:28:44,016
+Tu vois, c'est précisément cette réaction
+qui m'inquiète.
+
+446
+00:28:44,516 --> 00:28:46,518
+Elle témoigne d'un certain zèle
+
+447
+00:28:46,935 --> 00:28:48,979
+dont Raymond va se servir.
+
+448
+00:28:50,606 --> 00:28:51,690
+Tommy,
+
+449
+00:28:52,232 --> 00:28:53,317
+écoute-moi.
+
+450
+00:28:54,818 --> 00:28:57,905
+L'accusation devra être qualifiée
+
+451
+00:28:58,780 --> 00:28:59,698
+de méthodique,
+
+452
+00:28:59,865 --> 00:29:01,241
+approfondie et juste.
+
+453
+00:29:01,241 --> 00:29:03,493
+Les qualificatifs à éviter :
+
+454
+00:29:03,493 --> 00:29:06,038
+vindicative, obsessionnelle et sadique.
+
+455
+00:29:06,288 --> 00:29:09,833
+Je comprends, Nico.
+Ne me parle pas comme à un abruti.
+
+456
+00:29:12,002 --> 00:29:16,173
+Tu te rappelles ce que tu as dit
+quand je t'ai nommé à ce poste ?
+
+457
+00:29:16,632 --> 00:29:18,383
+Je t'ai exprimé ma gratitude ?
+
+458
+00:29:18,383 --> 00:29:20,594
+Non. Tu as d'abord dit :
+
+459
+00:29:20,594 --> 00:29:22,471
+"Les filles vont m'adorer."
+
+460
+00:29:24,056 --> 00:29:25,182
+Ça s'est confirmé.
+
+461
+00:29:25,182 --> 00:29:28,060
+Y a un truc chez toi,
+ça doit être ta nature,
+
+462
+00:29:28,060 --> 00:29:30,938
+qui a besoin d'être validé,
+
+463
+00:29:31,897 --> 00:29:33,398
+de faire forte impression.
+
+464
+00:29:33,690 --> 00:29:37,569
+Certaines personnes brillantes
+souffrent d'un complexe de persécution.
+
+465
+00:29:37,569 --> 00:29:39,321
+D'autres, d'un complexe...
+
+466
+00:29:39,738 --> 00:29:40,948
+narcissique.
+
+467
+00:29:41,448 --> 00:29:43,325
+Toi, tu as les deux.
+
+468
+00:29:43,325 --> 00:29:44,451
+C'est un duplex.
+
+469
+00:29:46,036 --> 00:29:48,413
+Ça doit coûter cher en psy.
+
+470
+00:29:49,498 --> 00:29:50,582
+Tu détestes Rusty.
+
+471
+00:29:51,416 --> 00:29:52,626
+Ça, c'est clair.
+
+472
+00:29:53,418 --> 00:29:55,128
+Non, je ne déteste pas Rusty.
+
+473
+00:29:56,713 --> 00:29:58,590
+C'est très difficile pour moi.
+
+474
+00:29:58,966 --> 00:30:02,636
+Non, c'est juste que les affronts,
+les piques,
+
+475
+00:30:02,636 --> 00:30:04,847
+les accrocs, les estocades,
+
+476
+00:30:04,847 --> 00:30:06,431
+ça te bouffe.
+
+477
+00:30:08,058 --> 00:30:09,101
+On s'en remet un ?
+
+478
+00:30:10,727 --> 00:30:12,437
+On doit prouver un meurtre.
+
+479
+00:30:14,606 --> 00:30:15,858
+On va y arriver.
+
+480
+00:30:22,823 --> 00:30:25,826
+On inspecte l'appart de Carolyn,
+tout à l'heure.
+
+481
+00:30:26,326 --> 00:30:27,244
+T'es partant ?
+
+482
+00:30:27,995 --> 00:30:29,079
+Oui, je serai là.
+
+483
+00:30:29,329 --> 00:30:30,163
+Bon.
+
+484
+00:30:30,664 --> 00:30:32,499
+- L'acte d'accusation, putain...
+- Quoi ?
+
+485
+00:30:32,499 --> 00:30:35,002
+"Atteintes volontaires
+à l'intégrité physique."
+
+486
+00:30:35,002 --> 00:30:38,422
+Je l'ai dicté mille fois,
+mais le lire à mon sujet...
+
+487
+00:30:40,215 --> 00:30:44,219
+J'ai appelé notre ami M. Molto deux fois,
+j'ai laissé des messages.
+
+488
+00:30:44,636 --> 00:30:47,055
+S'il rappelle pas,
+on lui colle un outrage.
+
+489
+00:30:47,055 --> 00:30:48,849
+J'ai laissé la voiture ouverte.
+
+490
+00:30:48,849 --> 00:30:50,100
+Je reviens !
+
+491
+00:31:15,834 --> 00:31:16,793
+Vous l'aimiez ?
+
+492
+00:31:19,213 --> 00:31:20,088
+Pardon ?
+
+493
+00:31:20,339 --> 00:31:21,298
+Carolyn.
+
+494
+00:31:22,090 --> 00:31:23,258
+Vous l'aimiez ?
+
+495
+00:31:28,388 --> 00:31:31,016
+Je ne vois pas en quoi c'est pertinent.
+
+496
+00:31:31,808 --> 00:31:35,187
+Raymond m'a chargée
+d'établir votre profil pour le procès,
+
+497
+00:31:35,812 --> 00:31:37,648
+si vous deviez témoigner.
+
+498
+00:31:37,898 --> 00:31:39,608
+Il veut que je témoigne ?
+
+499
+00:31:39,608 --> 00:31:41,109
+C'est juste au cas où.
+
+500
+00:31:51,495 --> 00:31:53,205
+C'était du désir ?
+
+501
+00:31:54,414 --> 00:31:55,332
+De l'amour ?
+
+502
+00:31:55,958 --> 00:31:56,917
+Les deux ?
+
+503
+00:32:02,130 --> 00:32:03,090
+Les deux.
+
+504
+00:32:08,303 --> 00:32:12,099
+Vous vous souvenez à quel moment
+est né votre attachement ?
+
+505
+00:32:12,891 --> 00:32:14,685
+Pas votre désir sexuel...
+
+506
+00:32:14,685 --> 00:32:16,103
+J'ai compris.
+
+507
+00:32:17,813 --> 00:32:18,647
+Oui.
+
+508
+00:32:22,192 --> 00:32:23,402
+On était...
+
+509
+00:32:26,947 --> 00:32:28,365
+sur une affaire.
+
+510
+00:32:29,700 --> 00:32:31,076
+Agression sexuelle.
+
+511
+00:32:31,577 --> 00:32:33,579
+La victime était une petite fille.
+
+512
+00:32:35,330 --> 00:32:37,040
+On n'apprend pas la gentillesse
+
+513
+00:32:37,457 --> 00:32:38,834
+aux procureurs.
+
+514
+00:32:38,834 --> 00:32:40,711
+Ce n'est pas ce qu'on nous demande.
+
+515
+00:32:40,961 --> 00:32:43,172
+Je crois même qu'on en est privés,
+
+516
+00:32:43,172 --> 00:32:44,339
+mais...
+
+517
+00:32:44,631 --> 00:32:45,841
+pas Carolyn.
+
+518
+00:32:46,967 --> 00:32:49,303
+Et ce jour-là, elle a fait preuve
+
+519
+00:32:49,803 --> 00:32:52,598
+de tendresse
+envers cette petite fille vulnérable.
+
+520
+00:32:53,390 --> 00:32:54,725
+Lui, c'est...
+
+521
+00:32:54,975 --> 00:32:55,976
+Dell.
+
+522
+00:32:57,144 --> 00:32:58,437
+Elle, c'est...
+
+523
+00:32:58,687 --> 00:32:59,521
+Perla.
+
+524
+00:32:59,521 --> 00:33:00,606
+Ils sont beaucoup.
+
+525
+00:33:00,772 --> 00:33:01,607
+Oui.
+
+526
+00:33:01,607 --> 00:33:02,691
+Ils sont amis ?
+
+527
+00:33:02,691 --> 00:33:05,027
+- C'est une famille.
+- Une famille ?
+
+528
+00:33:07,404 --> 00:33:09,990
+Ça fera peut-être un peu peur,
+tout à l'heure,
+
+529
+00:33:09,990 --> 00:33:11,700
+il faut que tu le saches.
+
+530
+00:33:13,493 --> 00:33:15,662
+Mais je serai avec toi
+
+531
+00:33:16,330 --> 00:33:17,706
+du début à la fin.
+
+532
+00:33:18,332 --> 00:33:19,958
+Et si tu as trop peur,
+
+533
+00:33:20,667 --> 00:33:23,253
+tu n'auras qu'à lever la main, comme ça.
+
+534
+00:33:27,090 --> 00:33:28,133
+C'est ça.
+
+535
+00:33:28,383 --> 00:33:30,511
+Je viendrai te tenir la main.
+
+536
+00:33:30,511 --> 00:33:32,179
+On arrêtera quand tu veux.
+
+537
+00:33:33,430 --> 00:33:35,057
+Je te prendrai dans mes bras
+
+538
+00:33:35,390 --> 00:33:38,560
+et je demanderai au juge
+si on peut sortir un peu.
+
+539
+00:33:39,603 --> 00:33:42,272
+Je te protégerai, quoi qu'il arrive.
+
+540
+00:33:43,273 --> 00:33:44,608
+Tu me fais confiance ?
+
+541
+00:33:45,400 --> 00:33:46,860
+Pour te protéger ?
+
+542
+00:33:48,904 --> 00:33:50,239
+Tu es très courageuse.
+
+543
+00:33:52,324 --> 00:33:53,367
+C'est là.
+
+544
+00:33:54,868 --> 00:33:56,578
+À ce moment-là.
+
+545
+00:33:58,247 --> 00:34:03,001
+Que vous avez franchi le fossé
+et décidé de foutre votre vie en l'air.
+
+546
+00:34:03,919 --> 00:34:05,754
+L'amour, c'est pas ce qu'on dit.
+
+547
+00:34:05,921 --> 00:34:07,422
+Vous le savez sûrement.
+
+548
+00:34:07,422 --> 00:34:08,799
+Mais tel que je l'ai vécu,
+
+549
+00:34:08,799 --> 00:34:12,010
+c'est un sentiment qui grandit
+et un jour,
+
+550
+00:34:13,219 --> 00:34:15,097
+on a besoin de l'autre.
+
+551
+00:34:17,014 --> 00:34:18,433
+C'était ça, avec Carolyn.
+
+552
+00:34:21,103 --> 00:34:22,103
+Alors, oui,
+
+553
+00:34:23,438 --> 00:34:25,357
+j'ai foutu ma vie en l'air.
+
+554
+00:34:26,984 --> 00:34:29,277
+Mais j'ai pas franchi l'autre fossé.
+
+555
+00:34:30,571 --> 00:34:32,364
+Jamais je ne lui aurais fait de mal.
+
+556
+00:34:34,283 --> 00:34:35,659
+C'était quelqu'un d'autre.
+
+557
+00:34:36,326 --> 00:34:38,829
+Et la personne qui l'a fait
+
+558
+00:34:38,829 --> 00:34:42,958
+doit bien se marrer
+en voyant tout le monde me tomber dessus.
+
+559
+00:34:58,307 --> 00:34:59,141
+Strike 3 !
+
+560
+00:34:59,141 --> 00:35:00,267
+Retiré !
+
+561
+00:35:34,510 --> 00:35:35,469
+C'est sublime.
+
+562
+00:35:39,014 --> 00:35:40,516
+Vous êtes aux abois.
+
+563
+00:36:24,393 --> 00:36:27,646
+Le bureau de Délai
+vient de nous déballer sa cargaison.
+
+564
+00:36:27,896 --> 00:36:29,439
+Ils vont nous enterrer
+
+565
+00:36:30,107 --> 00:36:32,317
+sous des tonnes d'éléments de preuve.
+
+566
+00:36:32,317 --> 00:36:34,152
+Faut pas faiblir.
+
+567
+00:36:34,611 --> 00:36:36,363
+Y a le rapport du labo ?
+
+568
+00:36:37,364 --> 00:36:38,615
+Pas encore.
+
+569
+00:36:39,408 --> 00:36:41,994
+Ou alors,
+c'est dans la dernière cargaison.
+
+570
+00:36:42,286 --> 00:36:43,495
+On sait jamais.
+
+571
+00:36:44,371 --> 00:36:46,498
+La Scientifique se tient prête.
+
+572
+00:36:48,166 --> 00:36:50,252
+C'est une aiguille dans une botte de foin,
+
+573
+00:36:50,252 --> 00:36:52,629
+mais ils ont peut-être loupé un truc.
+
+574
+00:36:52,629 --> 00:36:55,465
+Il doit y avoir mon ADN partout.
+
+575
+00:36:57,801 --> 00:36:59,887
+On a établi que tu étais passé.
+
+576
+00:37:00,971 --> 00:37:04,433
+Vous aviez une liaison.
+Ça ne veut pas dire que tu l'as tuée.
+
+577
+00:37:04,641 --> 00:37:07,686
+À moins qu'ils trouvent son sang
+dans ta voiture,
+
+578
+00:37:07,686 --> 00:37:09,229
+mais ça n'arrivera pas.
+
+579
+00:37:16,278 --> 00:37:17,362
+Je sais.
+
+580
+00:37:18,405 --> 00:37:19,740
+Moi aussi, je la vois.
+
+581
+00:37:25,454 --> 00:37:27,748
+Viens voir une seconde...
+
+582
+00:37:31,877 --> 00:37:34,421
+Rigo me dit
+que tu veux retrouver l'origine
+
+583
+00:37:34,421 --> 00:37:38,258
+du 2e échantillon de sperme
+de l'affaire Bunny Davis.
+
+584
+00:37:38,884 --> 00:37:41,178
+Si on évoque l'idée
+
+585
+00:37:41,470 --> 00:37:43,055
+d'un autre suspect,
+
+586
+00:37:43,055 --> 00:37:46,016
+on sera obligés d'en présenter un.
+
+587
+00:37:46,016 --> 00:37:47,434
+Et si on échoue...
+
+588
+00:37:47,935 --> 00:37:51,855
+L'accusation va montrer
+des photos abjectes de Carolyn ce soir-là.
+
+589
+00:37:51,855 --> 00:37:53,273
+Ça va être effroyable.
+
+590
+00:37:53,273 --> 00:37:57,778
+Le jury voudra un coupable.
+Sans autre choix, ce sera moi.
+
+591
+00:38:00,072 --> 00:38:01,573
+- Laisse tomber.
+- Non.
+
+592
+00:38:02,407 --> 00:38:05,410
+<i>Pièce n°13, message n°4, la victime</i>
+
+593
+00:38:05,410 --> 00:38:06,411
+<i>à l'accusé.</i>
+
+594
+00:38:06,411 --> 00:38:09,164
+<i>T'attends quoi de tout ça, Rusty ?</i>
+
+595
+00:38:09,164 --> 00:38:10,832
+<i>Je suis un peu à bout, là.</i>
+
+596
+00:38:10,832 --> 00:38:12,835
+<i>Je comprends que tu aies besoin d'air,</i>
+
+597
+00:38:13,335 --> 00:38:16,046
+<i>mais c'est super dur pour moi.</i>
+
+598
+00:38:16,046 --> 00:38:20,300
+<i>Je veux bien qu'on en reparle,
+si ça peut t'aider.</i>
+
+599
+00:38:20,300 --> 00:38:22,094
+<i>Je déteste parler à un mur.</i>
+
+600
+00:38:22,094 --> 00:38:24,304
+<i>Pourquoi tu décroches pas ?</i>
+
+601
+00:38:24,555 --> 00:38:27,140
+<i>Tu ne comprends pas mon point de vue.</i>
+
+602
+00:38:27,140 --> 00:38:29,852
+<i>Arrête de m'appeler, Rusty.
+C'est pas juste.</i>
+
+603
+00:38:29,852 --> 00:38:31,937
+<i>Je suis pas du tout d'accord.</i>
+
+604
+00:38:31,937 --> 00:38:33,355
+<i>Tu m'aimes, c'est évident.</i>
+
+605
+00:38:33,355 --> 00:38:37,025
+Nos preuves matérielles
+vous conduiront à vous faire...
+
+606
+00:38:37,025 --> 00:38:39,152
+à tirer vos propres conclusions.
+
+607
+00:38:39,486 --> 00:38:40,362
+Réfléchis.
+
+608
+00:38:41,697 --> 00:38:42,781
+Les faits !
+
+609
+00:38:50,330 --> 00:38:53,000
+<i>Je t'envoie les photos et les vidéos</i>
+
+610
+00:39:02,593 --> 00:39:03,427
+Merde.
+
+611
+00:41:02,546 --> 00:41:04,464
+D'APRÈS LE ROMAN DE SCOTT TUROW
+
+612
+00:42:18,580 --> 00:42:21,875
+Adaptation : Maï Boiron
+
+613
+00:42:21,875 --> 00:42:25,254
+Sous-titrage : DUBBING BROTHERS
+

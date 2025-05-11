@@ -1,0 +1,19 @@
+[2025-02-09 00:33:50.905 +00:00] [INF] [17] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/local_media/tv"
+[2025-02-09 00:33:50.905 +00:00] [INF] [17] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/media/movies"
+[2025-02-09 00:33:50.906 +00:00] [INF] [17] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/media/tv"
+[2025-02-09 00:33:50.906 +00:00] [INF] [17] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/local_media/movies"
+[2025-02-09 00:33:50.906 +00:00] [INF] [17] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2025-02-09 00:33:50.910 +00:00] [WRN] [17] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-09 00:33:50.982 +00:00] [WRN] [65] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-09 00:34:19.702 +00:00] [INF] [44] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 28 seconds
+[2025-02-09 00:34:19.753 +00:00] [INF] [22] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/media/tv"
+[2025-02-09 00:34:19.753 +00:00] [INF] [17] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/media/movies"
+[2025-02-09 00:34:19.753 +00:00] [INF] [44] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/local_media/tv"
+[2025-02-09 00:34:19.754 +00:00] [INF] [36] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/local_media/movies"
+[2025-02-09 00:35:45.474 +00:00] [INF] [68] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing lyrics" Completed after 0 minute(s) and 0 seconds
+[2025-02-09 02:00:00.999 +00:00] [INF] [19] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2025-02-10 02:00:00.000 +00:00, which is 23:59:59.0001192 from now.
+[2025-02-09 02:00:01.202 +00:00] [INF] [75] Emby.Server.Implementations.MediaEncoder.EncodingManager: Stopping chapter extraction for "Scarface" because a chapter was found with a position greater than the runtime.
+[2025-02-09 02:00:05.873 +00:00] [INF] [75] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 5 seconds
+[2025-02-09 02:33:45.740 +00:00] [INF] [34] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 0 seconds
+[2025-02-09 03:00:00.755 +00:00] [INF] [72] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2025-02-09 03:00:01.001 +00:00] [INF] [85] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2025-02-10 03:00:00.000 +00:00, which is 23:59:58.9983571 from now.

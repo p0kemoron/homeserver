@@ -1,0 +1,2614 @@
+1
+00:00:02,127 --> 00:00:04,546
+<i>Ray... Ray. Ray. ¿Estás bien?</i>
+
+2
+00:00:04,546 --> 00:00:07,925
+- <i>Soy su esposa. Soy su esposa.</i>
+- <i>¡Que pidan una ambulancia!</i>
+
+3
+00:00:07,925 --> 00:00:09,009
+<i>¿Ya han llamado?</i>
+
+4
+00:00:11,929 --> 00:00:13,722
+Estaba inconsciente cuando he llegado.
+
+5
+00:00:13,722 --> 00:00:15,849
+Tiene una vía en el brazo derecho.
+
+6
+00:00:15,849 --> 00:00:18,435
+Vale. Aumentad el oxígeno a ocho LPM.
+
+7
+00:00:18,435 --> 00:00:22,814
+Quiero un electro, analítica completa,
+recuento de plaquetas y grupo sanguíneo.
+
+8
+00:00:30,447 --> 00:00:32,281
+Taquicardia ventricular,
+compruebe el pulso.
+
+9
+00:00:35,536 --> 00:00:36,620
+No tiene pulso.
+
+10
+00:00:53,220 --> 00:00:56,932
+PRESUNTO INOCENTE
+
+11
+00:01:14,575 --> 00:01:16,869
+- Hola, cariño.
+- <i>Estoy en casa con los chicos.</i>
+
+12
+00:01:16,869 --> 00:01:18,412
+<i>¿Cómo está?</i>
+
+13
+00:01:18,912 --> 00:01:20,122
+Sigue en cirugía.
+
+14
+00:01:20,122 --> 00:01:21,707
+- <i>Raymond Horgan...</i>
+- Ya.
+
+15
+00:01:21,707 --> 00:01:24,001
+- Te tendré informada, ¿vale?
+- Vale. Vale.
+
+16
+00:01:24,001 --> 00:01:25,252
+- <i>Te quiero.</i>
+- Sí. Adiós.
+
+17
+00:01:25,252 --> 00:01:27,796
+<i>...desplomarse en el juzgado
+al sufrir un posible paro cardíaco.</i>
+
+18
+00:01:27,796 --> 00:01:29,923
+<i>- Un inesperado giro...</i>
+- Dios...
+
+19
+00:01:29,923 --> 00:01:34,011
+{\an8}<i>Lo que todavía no sabemos es
+si el juicio acabará siendo suspendido.</i>
+
+20
+00:01:34,011 --> 00:01:37,472
+{\an8}<i>Rae, ¿existe algún precedente
+para casos de este tipo?</i>
+
+21
+00:01:37,472 --> 00:01:40,184
+<i>El acusado saltó
+para salvarle la vida a su abogado.</i>
+
+22
+00:01:40,184 --> 00:01:42,728
+<i>Bueno, normalmente funciona al revés.</i>
+
+23
+00:01:42,728 --> 00:01:45,439
+<i>Pero en respuesta a tu pregunta,
+no hay precedente.</i>
+
+24
+00:01:45,439 --> 00:01:46,607
+<i>Dependerá de la jueza.</i>
+
+25
+00:01:46,607 --> 00:01:50,611
+{\an8}<i>Y conociendo a la jueza Lyttle,
+diría que es impredecible.</i>
+
+26
+00:01:50,611 --> 00:01:53,864
+Vale, si anulan el juicio,
+¿tendrán que repetirlo?
+
+27
+00:01:53,864 --> 00:01:54,948
+Eso parece.
+
+28
+00:01:55,866 --> 00:01:56,909
+Es una putada.
+
+29
+00:01:56,909 --> 00:01:58,410
+<i>Sé que el juzgado está hasta los topes.</i>
+
+30
+00:01:58,410 --> 00:02:00,954
+<i>Supongo que en Urgencias del hospital
+estarán igual.</i>
+
+31
+00:02:06,251 --> 00:02:07,419
+¿Quieres que te traiga algo?
+
+32
+00:02:07,419 --> 00:02:09,338
+¿Un poco de agua o un café?
+
+33
+00:02:10,214 --> 00:02:11,548
+Sí.
+
+34
+00:02:11,548 --> 00:02:12,633
+- Sí, gracias.
+- ¿Sí?
+
+35
+00:02:18,847 --> 00:02:22,351
+Lorraine, solo quería que supieras
+que lo siento.
+
+36
+00:02:22,351 --> 00:02:23,936
+Y que si puedo ayudaros...
+
+37
+00:02:23,936 --> 00:02:28,023
+Sé que suena falso,
+pero si puedo hacer algo...
+
+38
+00:02:32,194 --> 00:02:34,071
+- Gracias.
+- Sí.
+
+39
+00:02:34,071 --> 00:02:35,906
+- Sí.
+- Gracias.
+
+40
+00:02:35,906 --> 00:02:37,115
+- ¿Sra. Horgan?
+- ¿Sí?
+
+41
+00:02:37,115 --> 00:02:39,159
+- ¿Es la Sra. Horgan?
+- Sí.
+
+42
+00:02:39,159 --> 00:02:41,495
+Se va a poner bien. Mejor incluso.
+
+43
+00:02:41,495 --> 00:02:43,038
+- ¿En serio?
+- No ha sido un infarto,
+
+44
+00:02:43,038 --> 00:02:44,540
+- sino una bradicardia.
+- Menos mal.
+
+45
+00:02:44,540 --> 00:02:47,751
+Es un problema eléctrico
+que le ha disminuido el ritmo cardíaco.
+
+46
+00:02:47,751 --> 00:02:50,295
+Le he puesto un marcapasos
+y no hay daño neurológico.
+
+47
+00:02:50,921 --> 00:02:53,924
+- Saldrá de aquí como nuevo.
+- Gracias, doctor.
+
+48
+00:02:54,424 --> 00:02:56,176
+¿Y se va a poner bien?
+
+49
+00:02:56,176 --> 00:02:57,678
+- Sí, se va a poner bien.
+- Sí.
+
+50
+00:02:57,678 --> 00:02:59,930
+Mejor aún. Está en posoperatorio.
+
+51
+00:02:59,930 --> 00:03:02,641
+Lo subirán a planta en unas horas
+y podrá verlo.
+
+52
+00:03:02,641 --> 00:03:03,892
+Dios...
+
+53
+00:03:04,393 --> 00:03:06,353
+- Gracias. Gracias.
+- Tranquila. De nada.
+
+54
+00:03:06,353 --> 00:03:07,437
+Sí.
+
+55
+00:03:18,574 --> 00:03:19,992
+Tenemos un problema.
+
+56
+00:03:21,910 --> 00:03:22,995
+Tenemos un problemón.
+
+57
+00:03:23,829 --> 00:03:28,041
+El jurado ha visto
+a Rusty actuar a lo héroe y...
+
+58
+00:03:29,042 --> 00:03:30,794
+habría que pedir la anulación.
+
+59
+00:03:31,378 --> 00:03:32,754
+- ¿Qué?
+- Sí.
+
+60
+00:03:32,754 --> 00:03:34,298
+- Hay...
+- ¿Ganando?
+
+61
+00:03:34,882 --> 00:03:37,593
+- Yo no diría que ganamos.
+- Con la anulación, se librará.
+
+62
+00:03:37,593 --> 00:03:40,137
+- No. Eso no lo sabemos.
+- Que sí. Claro que sí. Vamos.
+
+63
+00:03:40,137 --> 00:03:41,847
+Ahora ya conoce nuestra estrategia.
+
+64
+00:03:41,847 --> 00:03:45,392
+Escúchame.
+Para ser un psicópata mentiroso e infiel,
+
+65
+00:03:45,392 --> 00:03:47,311
+- el tío tiene su encanto, ¿no?
+- ¿Que tiene...?
+
+66
+00:03:47,311 --> 00:03:50,564
+Y le ha salvado la vida
+a un hombre delante del jurado.
+
+67
+00:03:50,564 --> 00:03:52,858
+Por otro lado,
+el jurado lo ha visto actuar
+
+68
+00:03:52,858 --> 00:03:55,152
+de manera impulsiva y enérgica.
+Saltó sin pensar.
+
+69
+00:03:55,152 --> 00:03:56,778
+Pero tienes que confiar en el jurado.
+
+70
+00:03:57,738 --> 00:04:00,407
+Están más capacitados
+para visualizar lo que pasó esa noche
+
+71
+00:04:00,407 --> 00:04:01,867
+que nosotros.
+
+72
+00:04:03,744 --> 00:04:05,787
+{\an8}<i>Y la pregunta es: "¿Ahora qué?".</i>
+
+73
+00:04:06,205 --> 00:04:08,415
+{\an8}<i>No puedes continuar
+sin el abogado principal</i>
+
+74
+00:04:08,415 --> 00:04:10,417
+{\an8}<i>a estas alturas
+de un juicio por asesinato.</i>
+
+75
+00:04:10,417 --> 00:04:12,127
+<i>A lo mejor esperan su regreso.</i>
+
+76
+00:04:12,127 --> 00:04:14,171
+<i>No creo que eso sea posible.</i>
+
+77
+00:04:14,171 --> 00:04:17,007
+<i>Por todo lo que escriben
+los expertos en derecho...</i>
+
+78
+00:04:47,329 --> 00:04:49,164
+¿Qué proponen?
+
+79
+00:04:50,457 --> 00:04:51,458
+¿Alguna idea?
+
+80
+00:04:52,626 --> 00:04:56,296
+Sr. Della Guardia, ese suspiro me dice
+que está deseando hablar.
+
+81
+00:04:56,964 --> 00:05:00,425
+Estoy considerando
+el principio de economía procesal
+
+82
+00:05:00,425 --> 00:05:02,052
+frente al de justicia.
+
+83
+00:05:02,052 --> 00:05:04,763
+Reconocemos, como parte en este juicio,
+
+84
+00:05:04,763 --> 00:05:07,391
+que hay que garantizar que el proceso
+carezca de prejuicios y de subjetividades.
+
+85
+00:05:07,391 --> 00:05:08,684
+No nos sueltes el rollo, ¿vale?
+
+86
+00:05:08,684 --> 00:05:10,352
+No estamos en la facultad.
+
+87
+00:05:10,352 --> 00:05:12,437
+- Ve al grano de una vez.
+- Creemos
+
+88
+00:05:12,437 --> 00:05:14,273
+que un juicio nulo estaría justificado.
+
+89
+00:05:14,273 --> 00:05:16,149
+- Pues dilo y no te enrolles.
+- Nos oponemos.
+
+90
+00:05:19,653 --> 00:05:21,029
+¿Quieren continuar?
+
+91
+00:05:22,281 --> 00:05:23,490
+Yo puedo ocupar su lugar.
+
+92
+00:05:23,991 --> 00:05:26,159
+- ¿Inmediatamente?
+- ¿Lo has pensado bien?
+
+93
+00:05:27,953 --> 00:05:29,746
+Mañana. Tan solo pido un día.
+
+94
+00:05:30,330 --> 00:05:31,832
+¿Sr. Della Guardia?
+
+95
+00:05:34,376 --> 00:05:35,836
+Sí, lo siento.
+
+96
+00:05:35,836 --> 00:05:39,006
+Sí, sí.
+La fiscalía está dispuesta a continuar.
+
+97
+00:05:40,716 --> 00:05:42,342
+Quiero representarme.
+
+98
+00:05:47,389 --> 00:05:48,432
+¿Cómo ha dicho?
+
+99
+00:05:48,432 --> 00:05:52,019
+Como abogado principal.
+Mi presencia ya consta en acta
+
+100
+00:05:52,019 --> 00:05:53,854
+y la experiencia de la Sra. Winslow
+no es tan extensa.
+
+101
+00:05:53,854 --> 00:05:56,190
+- No, una persona no puede ser testigo...
+- Ella puede ser mi auxiliar.
+
+102
+00:05:56,190 --> 00:05:57,774
+...y abogado en el mismo procedimiento.
+
+103
+00:05:57,774 --> 00:05:59,943
+Es que no pienso testificar.
+Me comprometo desde ya.
+
+104
+00:05:59,943 --> 00:06:02,487
+Sí testificarás. Menuda jugada, ¿no?
+
+105
+00:06:02,487 --> 00:06:04,907
+Podrás presentar tu punto de vista
+y tu talante al jurado...
+
+106
+00:06:04,907 --> 00:06:07,242
+- Mi abogado está incapacitado...
+- ...sin que te puedan repreguntar.
+
+107
+00:06:07,242 --> 00:06:09,328
+...y no presentaré
+más pruebas ni testimonios.
+
+108
+00:06:09,328 --> 00:06:12,164
+Y le recuerdo al tribunal
+que estoy en mi derecho.
+
+109
+00:06:12,164 --> 00:06:14,833
+Y el tribunal le recuerda, Sr. Sabich,
+
+110
+00:06:14,833 --> 00:06:16,710
+que, con solo insinuar
+su versión de los hechos,
+
+111
+00:06:16,710 --> 00:06:20,339
+permitiré a la fiscalía sentarlo
+en el estrado,
+
+112
+00:06:20,339 --> 00:06:23,509
+donde podrán repreguntarle ampliamente.
+
+113
+00:06:23,509 --> 00:06:25,469
+Y si se perjudica a sí mismo,
+
+114
+00:06:25,469 --> 00:06:28,055
+no le concederé una apelación
+basándose en la sexta enmienda
+
+115
+00:06:28,055 --> 00:06:30,390
+por haber tenido un mal abogado.
+
+116
+00:06:30,390 --> 00:06:31,850
+¿Vas a representarte?
+
+117
+00:06:31,850 --> 00:06:34,478
+Mientras no ofrezca su testimonio,
+no puedo impedirlo.
+
+118
+00:06:35,729 --> 00:06:37,147
+Queda claro, Señoría.
+
+119
+00:06:38,273 --> 00:06:39,358
+Comete un error.
+
+120
+00:06:41,026 --> 00:06:42,528
+Pero ustedes deciden.
+
+121
+00:06:44,738 --> 00:06:48,325
+Avisaré al jurado
+y seguiremos mañana a las diez en punto.
+
+122
+00:06:52,246 --> 00:06:53,914
+Debería reconsiderarlo.
+
+123
+00:06:58,001 --> 00:07:01,213
+¿Cómo es posible?
+Me prometió que le protegería.
+
+124
+00:07:01,213 --> 00:07:03,632
+- Haré lo posible.
+- ¿Hará lo posible?
+
+125
+00:07:03,632 --> 00:07:05,092
+¿Hará lo posible?
+
+126
+00:07:06,677 --> 00:07:08,762
+¿Es que a nadie le preocupa mi hijo?
+
+127
+00:07:08,762 --> 00:07:12,182
+¡Está a punto de interrogarle
+el mismo hombre que mató a su madre!
+
+128
+00:07:12,182 --> 00:07:14,768
+- Está en su derecho de representarse...
+- ¡Es un puto asesino!
+
+129
+00:07:18,438 --> 00:07:21,275
+{\an8}<i>Aunque este caso haya dado tantos giros,</i>
+
+130
+00:07:21,275 --> 00:07:22,901
+<i>este no me lo esperaba.</i>
+
+131
+00:07:22,901 --> 00:07:26,280
+<i>Y de la idea de que Rusty Sabich
+se represente a sí mismo,</i>
+
+132
+00:07:26,280 --> 00:07:28,407
+- <i>¿qué opinas al respecto?</i>
+- Mamá, es un suicidio.
+
+133
+00:07:28,407 --> 00:07:30,284
+No subestimes a tu padre, cariño.
+
+134
+00:07:30,284 --> 00:07:32,494
+- En esto es el mejor.
+- ¡Mamá, vamos!
+
+135
+00:07:33,203 --> 00:07:34,329
+¡No me jodas, hombre!
+
+136
+00:07:34,329 --> 00:07:35,414
+¡Cariño!
+
+137
+00:07:53,891 --> 00:07:55,517
+¡Para! Para.
+
+138
+00:08:09,990 --> 00:08:11,950
+¡Por favor, aquí! ¡Acérquense aquí!
+
+139
+00:09:01,834 --> 00:09:03,293
+Bueno, te veo dentro.
+
+140
+00:10:00,893 --> 00:10:02,686
+Disculpe el retraso, Señoría.
+
+141
+00:10:07,524 --> 00:10:10,277
+{\an8}SELLO DEL CONDADO DE COOK
+ILLINOIS
+
+142
+00:10:28,921 --> 00:10:30,255
+Sr. Sabich.
+
+143
+00:10:32,758 --> 00:10:37,179
+Hola, Michael. Primero,
+quiero expresarte mis condolencias.
+
+144
+00:10:37,179 --> 00:10:39,264
+No puedo imaginarme
+el dolor de perder a tu madre.
+
+145
+00:10:39,264 --> 00:10:40,599
+Tú la mataste.
+
+146
+00:10:49,608 --> 00:10:51,527
+¿Ibas a menudo a casa de tu madre...
+
+147
+00:10:52,486 --> 00:10:54,363
+a observarla?
+
+148
+00:10:55,364 --> 00:10:57,074
+¿A ver su vida? ¿Esa...
+
+149
+00:10:59,159 --> 00:11:01,870
+de la que no quería que formaras parte?
+
+150
+00:11:02,538 --> 00:11:03,705
+Sí.
+
+151
+00:11:03,705 --> 00:11:06,875
+¿Alguna vez te contó
+por qué no quería tenerte en su vida?
+
+152
+00:11:08,293 --> 00:11:09,586
+No.
+
+153
+00:11:09,586 --> 00:11:13,382
+¿Y tu padre te contó por qué no quería?
+
+154
+00:11:15,926 --> 00:11:16,802
+No.
+
+155
+00:11:17,803 --> 00:11:19,638
+Supongo que eso te enfurecería.
+
+156
+00:11:20,389 --> 00:11:21,890
+¿Estás de acuerdo conmigo?
+
+157
+00:11:22,808 --> 00:11:23,809
+No como para matarla.
+
+158
+00:11:23,809 --> 00:11:24,893
+Ten cuidado.
+
+159
+00:11:24,893 --> 00:11:27,104
+- Raymond.
+- Solo es un comentario.
+
+160
+00:11:27,813 --> 00:11:30,816
+Lo digo, Michael,
+porque las últimas semanas de su vida
+
+161
+00:11:30,816 --> 00:11:35,279
+intercambiaste varios mensajes
+con tu madre.
+
+162
+00:11:37,906 --> 00:11:40,909
+¿Le escribiste:
+"Sería más fácil si estuvieras muerta"?
+
+163
+00:11:40,909 --> 00:11:41,994
+¿Lo escribiste tú?
+
+164
+00:11:42,744 --> 00:11:45,247
+No solo me hizo daño a mí.
+También a mi padre.
+
+165
+00:11:45,247 --> 00:11:48,959
+{\an8}"Estoy muy cabreado contigo.
+Me has destrozado la vida".
+
+166
+00:11:50,169 --> 00:11:51,545
+¿Lo escribiste tú?
+
+167
+00:11:53,213 --> 00:11:54,756
+Deseabas su muerte.
+
+168
+00:11:56,383 --> 00:11:58,844
+No, aunque sería más fácil.
+
+169
+00:11:59,428 --> 00:12:01,013
+Una muerte se supera.
+
+170
+00:12:01,013 --> 00:12:02,472
+Un divorcio, no.
+
+171
+00:12:02,472 --> 00:12:03,974
+A eso me refería.
+
+172
+00:12:05,184 --> 00:12:07,769
+Vale. Déjalo ahí. Es... suficiente.
+
+173
+00:12:07,769 --> 00:12:09,146
+<i>Me grabaste en vídeo</i>
+
+174
+00:12:09,146 --> 00:12:10,981
+entrando en casa de tu madre
+la noche en que murió
+
+175
+00:12:10,981 --> 00:12:13,567
+y testificaste
+que me habías visto otras veces.
+
+176
+00:12:13,567 --> 00:12:15,777
+Sabías que tu madre y yo éramos amantes.
+
+177
+00:12:19,448 --> 00:12:20,282
+Sí.
+
+178
+00:12:20,282 --> 00:12:23,702
+La idea de que no te quisiera en su vida,
+
+179
+00:12:23,702 --> 00:12:27,789
+pero que sintiera afecto por mí,
+¿no te hizo dirigir hacia mí tu odio?
+
+180
+00:12:27,789 --> 00:12:30,209
+Te odio porque tú la mataste.
+
+181
+00:12:32,085 --> 00:12:33,462
+Despacio, Rusty.
+
+182
+00:12:37,090 --> 00:12:41,762
+Y después de grabar el vídeo,
+¿qué hiciste?
+
+183
+00:12:41,762 --> 00:12:42,930
+Me fui.
+
+184
+00:12:42,930 --> 00:12:46,433
+¿Cuánto tardaste en irte
+después de verme entrar?
+
+185
+00:12:46,433 --> 00:12:48,435
+- Me fui casi al instante.
+- ¿Y adónde fuiste?
+
+186
+00:12:48,435 --> 00:12:49,603
+A casa.
+
+187
+00:12:50,354 --> 00:12:51,605
+¿Quién estaba en casa?
+
+188
+00:12:51,605 --> 00:12:52,773
+Mi padre.
+
+189
+00:12:54,399 --> 00:12:56,109
+¿Estabais los dos solos?
+
+190
+00:12:56,902 --> 00:12:57,861
+Sí.
+
+191
+00:12:57,861 --> 00:12:59,029
+¿Y nadie más?
+
+192
+00:12:59,738 --> 00:13:00,989
+No, solo nosotros.
+
+193
+00:13:00,989 --> 00:13:04,409
+Nadie corrobora tu versión excepto él.
+
+194
+00:13:04,910 --> 00:13:07,663
+Y nadie corrobora la suya excepto tú.
+
+195
+00:13:07,663 --> 00:13:09,289
+- Protesto.
+- No ha lugar.
+
+196
+00:13:09,289 --> 00:13:12,668
+¿Le dijiste a tu padre que viste
+al amante de tu madre en su casa?
+
+197
+00:13:15,295 --> 00:13:17,214
+Responde a la pregunta, Michael.
+
+198
+00:13:19,758 --> 00:13:21,635
+No recuerdo habérselo contado.
+
+199
+00:13:22,553 --> 00:13:23,887
+Entonces es posible...
+
+200
+00:13:25,097 --> 00:13:27,975
+Es posible que le dijeras a tu padre
+
+201
+00:13:27,975 --> 00:13:30,894
+que el amante de tu madre
+había entrado en su casa
+
+202
+00:13:30,894 --> 00:13:32,187
+la noche que la mataron.
+
+203
+00:13:35,315 --> 00:13:37,150
+No recuerdo haberle contado nada de nada.
+
+204
+00:13:37,150 --> 00:13:39,736
+Hay varios documentos que confiscó
+
+205
+00:13:39,736 --> 00:13:42,531
+el departamento de policía
+de tu ordenador.
+
+206
+00:13:42,531 --> 00:13:46,076
+Y demuestran que tenías gran interés
+en los casos antiguos de tu madre.
+
+207
+00:13:46,076 --> 00:13:49,079
+Entrabas en páginas
+que ofrecían información
+
+208
+00:13:49,079 --> 00:13:50,956
+que no estaba disponible
+en los medios convencionales,
+
+209
+00:13:50,956 --> 00:13:52,541
+incluido el de Bunny Davis.
+
+210
+00:13:52,541 --> 00:13:53,542
+DETECTIVE EN LA SOMBRA
+
+211
+00:13:53,542 --> 00:13:56,253
+- ¡Protesto!
+- Ha lugar. Haga una pregunta, letrado.
+
+212
+00:13:56,253 --> 00:13:57,462
+Ten mucho cuidado.
+
+213
+00:13:57,462 --> 00:13:58,797
+- ¿Mataste a tu madre?
+- ¡Protesto!
+
+214
+00:13:58,797 --> 00:14:00,299
+¿Y tu padre? ¿La mató tu padre?
+
+215
+00:14:00,299 --> 00:14:02,551
+- La hostia.
+- ...lo haya preguntado de buena fe.
+
+216
+00:14:02,551 --> 00:14:05,971
+No tengo motivos para acusar
+al hijo de la víctima ni a su padre.
+
+217
+00:14:05,971 --> 00:14:06,930
+¿Cómo podría?
+
+218
+00:14:06,930 --> 00:14:09,308
+Tras la más breve y negligente
+investigación policial,
+
+219
+00:14:09,308 --> 00:14:13,270
+la fiscalía del estado
+los descartó a los dos.
+
+220
+00:14:13,270 --> 00:14:14,479
+- Está fuera de...
+- Señoría.
+
+221
+00:14:14,479 --> 00:14:16,356
+Para que conste, ¿mataste a tu madre?
+
+222
+00:14:16,356 --> 00:14:18,066
+¡Hijo de puta!
+
+223
+00:14:18,692 --> 00:14:19,651
+¡Papá!
+
+224
+00:14:19,651 --> 00:14:22,613
+- ¡Ya basta! ¡Basta!
+- Sr. Caldwell, no se acerque más.
+
+225
+00:14:22,613 --> 00:14:23,906
+¡Te estás pasando!
+
+226
+00:14:23,906 --> 00:14:26,241
+- Atrás.
+- Llévense al Sr. Caldwell.
+
+227
+00:14:26,241 --> 00:14:27,826
+¿Así le protegen?
+
+228
+00:14:36,293 --> 00:14:37,503
+Sr. Sabich,
+
+229
+00:14:37,503 --> 00:14:39,379
+¿se ha asustado cuando el Sr. Caldwell
+se le ha abalanzado?
+
+230
+00:14:39,379 --> 00:14:41,632
+¿Cómo se recuperará la fiscalía
+de este tropiezo?
+
+231
+00:14:41,632 --> 00:14:43,425
+Sr. Sabich,
+¿los Caldwell lo hicieron juntos?
+
+232
+00:14:43,425 --> 00:14:45,928
+¿Por qué cree que no los investigaron?
+
+233
+00:15:04,613 --> 00:15:07,199
+¿Sabes? Raymond tenía una expresión
+
+234
+00:15:07,199 --> 00:15:08,534
+para cuando un caso se iba a pique.
+
+235
+00:15:08,534 --> 00:15:13,872
+Decía que hay cagadas al punto,
+cagadas hechas y muy hechas.
+
+236
+00:15:13,872 --> 00:15:15,958
+Y creo que esta ya se nos ha pasado.
+
+237
+00:15:15,958 --> 00:15:17,042
+Parecía desesperado.
+
+238
+00:15:17,042 --> 00:15:19,086
+Lanzando acusaciones
+a diestro y siniestro.
+
+239
+00:15:19,086 --> 00:15:20,337
+A ver...
+
+240
+00:15:20,838 --> 00:15:21,839
+Bueno, venga.
+
+241
+00:15:22,381 --> 00:15:26,844
+Han logrado demostrar que había alguien
+que odiaba a Carolyn Polhemus
+
+242
+00:15:26,844 --> 00:15:30,764
+en la escena y que conocía
+los detalles del caso Bunny Davis.
+
+243
+00:15:30,764 --> 00:15:32,724
+Han señalado a Liam Reynolds...
+
+244
+00:15:33,809 --> 00:15:37,062
+y ahora al padre,
+que se ha puesto como un energúmeno.
+
+245
+00:15:37,896 --> 00:15:41,024
+¿Qué nos queda? Rigo.
+
+246
+00:15:41,024 --> 00:15:42,442
+- Llamemos a Rigo.
+- ¿A Rigo?
+
+247
+00:15:42,442 --> 00:15:44,403
+- No, está claramente a favor de Rusty.
+- Sí.
+
+248
+00:15:44,403 --> 00:15:46,363
+Igual que Eugenia.
+Solo hay que saber preguntar.
+
+249
+00:15:46,363 --> 00:15:48,782
+- Rigo no me aguanta.
+- Déjame a mí. Lo haré yo.
+
+250
+00:15:48,782 --> 00:15:50,617
+- No.
+- Sí.
+
+251
+00:15:50,617 --> 00:15:51,618
+- Sí.
+- No.
+
+252
+00:15:51,618 --> 00:15:53,203
+Sí. Y te diré por qué.
+
+253
+00:15:53,203 --> 00:15:57,666
+Porque, si no, estamos jodidos
+más allá de toda duda razonable.
+
+254
+00:16:01,295 --> 00:16:03,797
+- ¿Qué testificará Rigo?
+- No lo sé.
+
+255
+00:16:03,797 --> 00:16:05,799
+No, venga, dímelo. Sois amigas.
+
+256
+00:16:05,799 --> 00:16:07,968
+- Dime lo que va a tes...
+- No, ella es tu amiga, Rusty.
+
+257
+00:16:07,968 --> 00:16:11,013
+¿Le van a hacer declarar sobre qué?
+
+258
+00:16:11,597 --> 00:16:16,059
+Seguramente sobre lo que yo vi, Rusty,
+y lo que estoy viendo ahora mismo.
+
+259
+00:16:16,059 --> 00:16:17,019
+¿Y eso qué significa?
+
+260
+00:16:17,019 --> 00:16:20,480
+Que estás desquiciado, joder,
+y es lo estás dejando claro ahora.
+
+261
+00:16:22,983 --> 00:16:25,652
+Sabes
+que yo no quería testificar, ¿verdad?
+
+262
+00:16:26,486 --> 00:16:28,488
+Sé que lo sabes.
+
+263
+00:16:29,114 --> 00:16:30,240
+Por Dios.
+
+264
+00:16:32,910 --> 00:16:34,703
+¿Crees que me he equivocado?
+
+265
+00:16:37,206 --> 00:16:38,332
+- ¿A qué te re...?
+- ¿Me he...?
+
+266
+00:16:39,499 --> 00:16:43,545
+Carolyn era una droga y tú eras adicto.
+Las adicciones destrozan vidas.
+
+267
+00:16:45,088 --> 00:16:47,966
+Dios. Y una cosa es
+que te destrozara a ti,
+
+268
+00:16:47,966 --> 00:16:51,136
+pero no ibas a permitir
+que destrozara a tu familia.
+
+269
+00:16:55,307 --> 00:16:58,018
+Por Dios. Creo que esa noche te lo dijo.
+
+270
+00:16:59,937 --> 00:17:02,481
+Que no pensaba abortar, ¿a que sí?
+
+271
+00:17:03,607 --> 00:17:08,987
+¿Esa noche... te dijo
+que iba a tener el niño?
+
+272
+00:17:09,780 --> 00:17:11,698
+Que iba a tener el niño.
+
+273
+00:17:12,324 --> 00:17:14,076
+- A tu...
+- Bájate del coche.
+
+274
+00:17:18,664 --> 00:17:19,957
+Bájate del coche.
+
+275
+00:17:57,661 --> 00:18:00,122
+<i>Liam Reynolds no estaba implicado
+en la muerte de Carolyn Polhemus</i>
+
+276
+00:18:00,122 --> 00:18:02,791
+y, aun así, fueron a la cárcel
+a ver a Liam Reynolds.
+
+277
+00:18:02,791 --> 00:18:05,502
+- ¿Es correcto?
+- Así es.
+
+278
+00:18:06,295 --> 00:18:07,421
+¿Por qué?
+
+279
+00:18:09,298 --> 00:18:10,632
+Que Rusty nos lo cuente.
+
+280
+00:18:13,343 --> 00:18:15,220
+<i>Aunque encargaras el asesinato de Carolyn,</i>
+
+281
+00:18:17,097 --> 00:18:18,473
+<i>podría jugar en tu favor.</i>
+
+282
+00:18:20,225 --> 00:18:24,771
+<i>Habrías tenido un cómplice.
+Por tanto, algo con lo que negociar.</i>
+
+283
+00:18:24,771 --> 00:18:26,982
+<i>Vale, imagínatelo.</i>
+
+284
+00:18:28,025 --> 00:18:32,070
+<i>Ahora mismo cumples perpetua
+por matar a Bunny Davis.</i>
+
+285
+00:18:32,070 --> 00:18:33,655
+<i>Ayudándonos con Carolyn,</i>
+
+286
+00:18:33,655 --> 00:18:36,366
+<i>podrías volver a pisar la calle.</i>
+
+287
+00:18:36,366 --> 00:18:39,328
+<i>Incluso aunque participaras
+en su asesinato.</i>
+
+288
+00:18:39,828 --> 00:18:41,705
+Eso sí que sería perverso.
+
+289
+00:18:41,705 --> 00:18:43,749
+Vamos a ver...
+
+290
+00:18:43,749 --> 00:18:47,336
+Para que quede claro...
+¿Dice que incriminarme...
+
+291
+00:18:47,336 --> 00:18:49,087
+- Si tuvieras un cómplice.
+- ...en el asesinato de una fiscal
+
+292
+00:18:49,087 --> 00:18:51,256
+- podría conseguirme la libertad?
+- Sí.
+
+293
+00:18:51,757 --> 00:18:56,428
+Lo que está claro es que ahora cumples
+perpetua sin derecho a la condicional.
+
+294
+00:18:56,929 --> 00:18:59,598
+Y te estoy ofreciendo
+la oportunidad de cambiar eso.
+
+295
+00:19:01,683 --> 00:19:03,060
+Dios...
+
+296
+00:19:06,772 --> 00:19:08,232
+<i>Qué maravilla.</i>
+
+297
+00:19:08,899 --> 00:19:11,818
+¡No! Por Dios bendito.
+
+298
+00:19:13,737 --> 00:19:18,075
+No tenía ni puta idea.
+
+299
+00:19:18,700 --> 00:19:20,160
+<i>Está desesperado.</i>
+
+300
+00:19:21,119 --> 00:19:25,457
+Una reducción de condena a cambio
+de confesar la muerte de Carolyn Polhemus.
+
+301
+00:19:26,375 --> 00:19:28,836
+Yo no estaba presente.
+No sabía lo que iba a hacer.
+
+302
+00:19:28,836 --> 00:19:30,254
+¿No le molestó su intento de soborno?
+
+303
+00:19:30,254 --> 00:19:31,296
+¡Protesto!
+
+304
+00:19:31,296 --> 00:19:32,339
+- Ha lugar.
+- Mis disculpas.
+
+305
+00:19:32,339 --> 00:19:35,384
+¿No le molestó su propuesta?
+
+306
+00:19:36,134 --> 00:19:40,472
+Pues sí. Cuando me contó lo que hizo,
+le dije que había cruzado el límite.
+
+307
+00:19:40,472 --> 00:19:41,557
+Sí.
+
+308
+00:19:43,517 --> 00:19:44,852
+¿Y qué le respondió?
+
+309
+00:19:47,855 --> 00:19:49,815
+Dijo algo parecido a...
+
+310
+00:19:49,815 --> 00:19:53,026
+Me estoy jugando el cuello.
+Haré lo que haga falta.
+
+311
+00:19:53,610 --> 00:19:54,528
+Menudo héroe.
+
+312
+00:19:54,528 --> 00:19:56,822
+Cuando el acusado le asignó el caso,
+
+313
+00:19:56,822 --> 00:20:00,826
+¿le dio alguna directriz concreta
+con respecto de la recolección de pruebas?
+
+314
+00:20:01,994 --> 00:20:03,495
+Que todas las pruebas,
+
+315
+00:20:03,495 --> 00:20:06,540
+forenses o de otro tipo,
+debía entregárselas únicamente a él.
+
+316
+00:20:06,540 --> 00:20:08,584
+¿Y le dio alguna directriz en particular
+
+317
+00:20:08,584 --> 00:20:10,377
+sobre quiénes no debían ver las pruebas,
+
+318
+00:20:10,377 --> 00:20:13,881
+forenses o de otro tipo,
+bajo ninguna circunstancia?
+
+319
+00:20:14,840 --> 00:20:16,133
+El Sr. Molto y usted.
+
+320
+00:20:17,718 --> 00:20:19,011
+Qué decepcionante.
+
+321
+00:20:24,308 --> 00:20:25,309
+Su testigo.
+
+322
+00:20:34,943 --> 00:20:35,944
+Agárrate.
+
+323
+00:20:36,445 --> 00:20:40,824
+Estaba desesperado
+por demostrar mi inocencia
+
+324
+00:20:40,824 --> 00:20:43,076
+de todos los cargos por los que me sentía
+injustamente acusado.
+
+325
+00:20:43,076 --> 00:20:44,286
+¿Esa afirmación es cierta?
+
+326
+00:20:45,078 --> 00:20:46,079
+Eso creo.
+
+327
+00:20:46,079 --> 00:20:48,665
+Y mantuve firmemente mi inocencia
+
+328
+00:20:48,665 --> 00:20:51,502
+de la muerte de Carolyn Polhemus
+en todo momento.
+
+329
+00:20:52,461 --> 00:20:54,129
+- ¿Sí o no?
+- Así es.
+
+330
+00:20:55,672 --> 00:20:59,635
+Y por experiencia, inspectora,
+¿es poco corriente que un fiscal le pida
+
+331
+00:20:59,635 --> 00:21:01,637
+que la información
+quede entre ustedes dos?
+
+332
+00:21:02,596 --> 00:21:04,139
+Por mi experiencia, no lo es.
+
+333
+00:21:06,099 --> 00:21:11,271
+Y usted es consciente de que le pedí
+que nadie más viera la información
+
+334
+00:21:11,271 --> 00:21:13,357
+precisamente porque no me fiaba
+
+335
+00:21:13,357 --> 00:21:16,777
+de que el Sr. Molto y el Sr. Della Guardia
+llevaran a cabo una investigación justa.
+
+336
+00:21:16,777 --> 00:21:18,737
+¿Esa afirmación es cierta?
+
+337
+00:21:20,239 --> 00:21:21,156
+Sí.
+
+338
+00:21:24,868 --> 00:21:25,869
+Gracias.
+
+339
+00:22:09,788 --> 00:22:11,790
+- Hola.
+- Hola.
+
+340
+00:22:22,217 --> 00:22:23,218
+¿Cómo lo llevas?
+
+341
+00:22:25,345 --> 00:22:27,347
+Sí, bueno...
+
+342
+00:22:28,432 --> 00:22:30,934
+Han añadido a dos testigos
+para ilustrar mi...
+
+343
+00:22:30,934 --> 00:22:35,856
+Y yo me he entusiasmado afirmando
+mi inocencia.
+
+344
+00:22:35,856 --> 00:22:38,525
+Pero da igual. ¿Qué importa?
+El caso pinta bien. Va bien.
+
+345
+00:22:38,525 --> 00:22:40,652
+¿Has vuelto a tomarlas?
+
+346
+00:22:47,576 --> 00:22:48,744
+Tengo que concentrarme.
+
+347
+00:22:51,872 --> 00:22:54,499
+¿Cómo esperas que lo haga?
+
+348
+00:23:06,303 --> 00:23:08,388
+Deberías habérmelo contado, Rusty.
+
+349
+00:23:28,617 --> 00:23:31,078
+{\an8}RUSTY SABICH
+EL PUEBLO VS. GABRIEL M
+
+350
+00:23:31,078 --> 00:23:33,747
+RAY "LA LEY" HORGAN
+EL PUEBLO VS. LIV LI
+
+351
+00:23:35,666 --> 00:23:37,334
+{\an8}TOMMY MOLTO
+EL PUEBLO VS. SPENCER STEPHAN
+
+352
+00:23:37,334 --> 00:23:40,128
+CAROLYN POLHEMUS
+EL PUEBLO VS. LIAM REYNOLDS
+
+353
+00:23:43,298 --> 00:23:46,468
+- Felicidades. Muy bien. Sí.
+- Ya... Gracias.
+
+354
+00:23:59,439 --> 00:24:00,524
+En pie.
+
+355
+00:24:01,733 --> 00:24:03,360
+Se retoma la sesión.
+
+356
+00:24:03,944 --> 00:24:06,113
+La honorable jueza Lyttle preside la sala.
+
+357
+00:24:06,780 --> 00:24:08,115
+Pueden sentarse.
+
+358
+00:24:11,743 --> 00:24:13,161
+Bueno, a ver, Sr. Molto.
+
+359
+00:24:13,161 --> 00:24:14,746
+¿La fiscalía tiene algo más?
+
+360
+00:24:14,746 --> 00:24:15,956
+Sí, Señoría.
+
+361
+00:24:19,751 --> 00:24:21,461
+El pueblo llama a Rusty Sabich.
+
+362
+00:24:29,303 --> 00:24:30,762
+¿Cómo coño me viene con esas?
+
+363
+00:24:31,555 --> 00:24:35,184
+Como el Sr. Sabich insistió en testificar
+a través de la inspectora Rodríguez,
+
+364
+00:24:35,184 --> 00:24:37,311
+es justo que le repreguntemos.
+
+365
+00:24:37,311 --> 00:24:38,770
+Ayer nadie protestó.
+
+366
+00:24:38,770 --> 00:24:41,356
+No nos pareció necesario,
+puesto que el tribunal dejó claro
+
+367
+00:24:41,356 --> 00:24:43,108
+que si el acusado insinuaba su versión...
+
+368
+00:24:43,108 --> 00:24:44,234
+No... No testifiqué.
+
+369
+00:24:44,234 --> 00:24:45,944
+Repregunté a la testigo que llamaron.
+
+370
+00:24:45,944 --> 00:24:47,863
+Preguntó por temas
+que no sacamos nosotros
+
+371
+00:24:47,863 --> 00:24:49,239
+y afirmó su inocencia.
+
+372
+00:24:49,239 --> 00:24:50,574
+Llamaron a la inspectora
+
+373
+00:24:50,574 --> 00:24:53,827
+para establecer mi culpabilidad
+y mi corrupción,
+
+374
+00:24:53,827 --> 00:24:55,704
+y yo repregunté
+sobre mi integridad y mi inocencia.
+
+375
+00:24:55,704 --> 00:24:58,081
+Me ceñí a esos temas.
+
+376
+00:24:58,749 --> 00:24:59,917
+Nos dio su versión.
+
+377
+00:25:01,793 --> 00:25:04,963
+Le advertí
+de que si insinuaba lo más mínimo
+
+378
+00:25:04,963 --> 00:25:06,840
+*algo que no estaba en las pruebas...
+
+379
+00:25:07,841 --> 00:25:09,092
+Y es justo lo que hizo.
+
+380
+00:25:11,053 --> 00:25:14,640
+A ver, tiene dos opciones.
+
+381
+00:25:14,640 --> 00:25:16,350
+Si pide anular el juicio, lo haré.
+
+382
+00:25:16,975 --> 00:25:18,185
+Sin preguntas.
+
+383
+00:25:18,769 --> 00:25:22,147
+No le obligaré a continuar.
+Pero si continuamos, se subirá al estrado.
+
+384
+00:25:23,482 --> 00:25:25,317
+Usted abrió esa puerta.
+
+385
+00:25:28,487 --> 00:25:30,072
+Acepta la anulación, Rusty.
+
+386
+00:25:43,794 --> 00:25:44,878
+Testificaré.
+
+387
+00:25:52,636 --> 00:25:54,888
+- ¡Mya! ¡Mya, ellos quieren la anulación!
+- ¿De qué coño vas?
+
+388
+00:25:54,888 --> 00:25:56,390
+- No...
+- Saben que están perdiendo.
+
+389
+00:25:56,390 --> 00:25:58,308
+- ¡Por eso me llaman a mí!
+- Tal vez, tal vez, tal vez.
+
+390
+00:25:58,308 --> 00:26:00,102
+¡O tal vez quieran subirte al estrado
+
+391
+00:26:00,102 --> 00:26:01,562
+porque serás una puñetera diana!
+
+392
+00:26:01,562 --> 00:26:03,146
+¡Vale, que me suban al estrado!
+
+393
+00:26:03,146 --> 00:26:05,732
+Vale. Hagamos que Molto saque a relucir
+
+394
+00:26:05,732 --> 00:26:07,150
+- todo su narcisismo.
+- ¿Por qué?
+
+395
+00:26:07,150 --> 00:26:08,193
+¿Y el tuyo qué?
+
+396
+00:26:08,193 --> 00:26:10,070
+¿Qué quieres decir con eso?
+
+397
+00:26:10,737 --> 00:26:12,239
+¿Lo has hecho a propósito?
+
+398
+00:26:13,907 --> 00:26:14,908
+¿El qué?
+
+399
+00:26:14,908 --> 00:26:16,159
+Abrir esa puerta.
+
+400
+00:26:16,159 --> 00:26:17,995
+- ¿Qué crees que...?
+- Testificar indirectamente.
+
+401
+00:26:17,995 --> 00:26:19,580
+- ¿Lo hiciste a propósito?
+- No...
+
+402
+00:26:19,580 --> 00:26:21,290
+¿Por qué iba a hacerlo?
+
+403
+00:26:21,290 --> 00:26:24,877
+Porque eres Rusty Sabich
+y puedes hacer lo que quieras, ¿verdad?
+
+404
+00:26:24,877 --> 00:26:28,005
+Mya, tal vez, solo tal vez,
+
+405
+00:26:28,005 --> 00:26:31,341
+lo hiciera porque sé
+qué cojones quiero conseguir.
+
+406
+00:26:31,341 --> 00:26:33,886
+Lo dudo mucho.
+
+407
+00:26:36,847 --> 00:26:38,182
+Lo dejo.
+
+408
+00:26:48,483 --> 00:26:52,237
+{\an8}<i>Se espera que Rusty Sabich
+defienda su inocencia en el estrado.</i>
+
+409
+00:26:52,237 --> 00:26:56,783
+{\an8}<i>Por tanto, no solo será
+el acusado y a la vez su abogado,</i>
+
+410
+00:26:56,783 --> 00:26:58,493
+<i>sino que también será testigo.</i>
+
+411
+00:26:58,493 --> 00:26:59,578
+¿Qué?
+
+412
+00:26:59,578 --> 00:27:02,122
+<i>No tendrá el apoyo de su auxiliar,</i>
+
+413
+00:27:02,122 --> 00:27:04,208
+<i>así que a partir de ahora estará solo.</i>
+
+414
+00:27:04,208 --> 00:27:07,377
+{\an8}<i>Todo el peso del juicio
+recae sobre sus hombros.</i>
+
+415
+00:27:08,462 --> 00:27:11,882
+<i>Parece que Sabich
+ha acabado totalmente acorralado.</i>
+
+416
+00:27:11,882 --> 00:27:13,634
+<i>Y algo me dice que tan solo un milagro...</i>
+
+417
+00:27:13,634 --> 00:27:14,676
+Por Dios, Rusty.
+
+418
+00:27:14,676 --> 00:27:16,887
+<i>...podría sacarlo de esa situación.</i>
+
+419
+00:27:16,887 --> 00:27:17,971
+<i>Cambiemos de tema, hay...</i>
+
+420
+00:27:17,971 --> 00:27:19,473
+¿Qué clase de pastillas?
+
+421
+00:27:19,473 --> 00:27:21,850
+- Toma Ritalin.
+- ¿No fastidies?
+
+422
+00:27:21,850 --> 00:27:25,687
+Sí. Escuché a mamá
+al teléfono con su terapeuta
+
+423
+00:27:25,687 --> 00:27:28,232
+y creo que las tomaba
+cuando tenía juicios gordos.
+
+424
+00:27:29,608 --> 00:27:30,901
+Así se concentra más.
+
+425
+00:27:31,985 --> 00:27:32,945
+Sí.
+
+426
+00:27:32,945 --> 00:27:37,449
+¿Y lo está tomando ahora
+antes de testificar mañana?
+
+427
+00:27:38,033 --> 00:27:39,535
+Sí, una cagada descomunal.
+
+428
+00:27:52,005 --> 00:27:54,091
+¿Podrías darme...
+
+429
+00:27:54,091 --> 00:27:59,680
+un poco de ese polvo de hadas...
+de Rusty Sabich?
+
+430
+00:28:00,264 --> 00:28:05,477
+No sé si es...
+Si es algo que pueda... darte.
+
+431
+00:28:23,912 --> 00:28:26,999
+Claro que quería hablar con ella,
+pero juro que no pasó nada...
+
+432
+00:28:40,345 --> 00:28:43,807
+Tenía que verla
+para decirle que se había terminado.
+
+433
+00:28:45,642 --> 00:28:51,190
+Quería que supiera que...
+lo siento, lo siento.
+
+434
+00:28:59,990 --> 00:29:02,284
+Por favor, dime que no has dormido aquí.
+
+435
+00:29:03,035 --> 00:29:04,453
+No, he venido temprano.
+
+436
+00:29:06,038 --> 00:29:08,207
+Vale... ¿Estás listo?
+
+437
+00:29:08,874 --> 00:29:10,709
+Sí, estoy listo.
+
+438
+00:29:11,668 --> 00:29:12,794
+Genial.
+
+439
+00:29:12,794 --> 00:29:14,796
+Es un gran día.
+
+440
+00:29:16,590 --> 00:29:19,009
+Pensaba en cuánto nos esforzamos
+en la facultad.
+
+441
+00:29:20,093 --> 00:29:23,180
+Sí. Dame un solo día, Nico.
+
+442
+00:29:23,180 --> 00:29:25,432
+Uno para que pueda decir
+que todo valió la pena.
+
+443
+00:29:26,725 --> 00:29:28,227
+Hoy es ese gran día, Tommy.
+
+444
+00:29:31,605 --> 00:29:33,815
+<i>Es como de 1.o de yonquis del crimen.</i>
+
+445
+00:29:33,815 --> 00:29:37,027
+<i>Nunca testifiques en un caso contra ti.</i>
+
+446
+00:29:37,027 --> 00:29:39,530
+<i>La fiscalía le ha llamado como testigo.</i>
+
+447
+00:29:39,530 --> 00:29:42,991
+<i>¿Cómo vas a representarte a ti mismo
+sin parecer esquizofrénico?</i>
+
+448
+00:29:46,119 --> 00:29:49,498
+<i>Algo que pueda sembrar la duda
+entre el jurado.</i>
+
+449
+00:30:25,826 --> 00:30:27,619
+Mierda.
+
+450
+00:30:36,086 --> 00:30:37,045
+<i>Hola.</i>
+
+451
+00:30:39,339 --> 00:30:40,591
+Hola, Mya.
+
+452
+00:30:40,591 --> 00:30:41,675
+Te deseo suerte.
+
+453
+00:30:41,675 --> 00:30:45,804
+Solo quería decirte que la clave es
+que no dejes que te desconcierte,
+
+454
+00:30:45,804 --> 00:30:47,222
+ese será su objetivo.
+
+455
+00:30:47,222 --> 00:30:50,225
+<i>Querrá hacerte saltar.
+No piques el anzuelo.</i>
+
+456
+00:30:51,143 --> 00:30:52,686
+Gracias, Mya.
+
+457
+00:30:52,686 --> 00:30:54,938
+¿Puedo darte otro consejo más genérico?
+
+458
+00:30:55,439 --> 00:30:56,899
+¿Puedo disculparme primero?
+
+459
+00:30:58,525 --> 00:30:59,776
+Acepto tus disculpas.
+
+460
+00:31:00,861 --> 00:31:02,487
+<i>Tal vez tuvieras razón.</i>
+
+461
+00:31:03,989 --> 00:31:04,990
+Siempre tengo razón.
+
+462
+00:31:06,074 --> 00:31:08,535
+<i>No dejes que te pinte como a un capullo.</i>
+
+463
+00:31:09,328 --> 00:31:12,581
+<i>No es bueno
+que el jurado te vea de esa forma.</i>
+
+464
+00:31:15,667 --> 00:31:17,294
+<i>No les hagas concesiones.</i>
+
+465
+00:31:18,712 --> 00:31:20,589
+- <i>Estaré ahí, Rusty.</i>
+- No puedo hablar.
+
+466
+00:31:20,589 --> 00:31:22,549
+- Te dejo. Gracias, Mya.
+- <i>Vale.</i>
+
+467
+00:31:23,383 --> 00:31:24,384
+Hola.
+
+468
+00:31:25,552 --> 00:31:27,930
+- ¿Qué haces tú aquí?
+- Me han dado el alta.
+
+469
+00:31:28,430 --> 00:31:30,140
+Estoy de vuelta.
+
+470
+00:31:30,140 --> 00:31:32,601
+¿Te parece prudente entrar en esa sala?
+
+471
+00:31:32,601 --> 00:31:35,812
+Los médicos dicen que estoy bien. ¿Y tú?
+
+472
+00:31:41,360 --> 00:31:42,236
+Sí.
+
+473
+00:31:44,696 --> 00:31:46,698
+¿Jura decir la verdad, toda la verdad
+
+474
+00:31:46,698 --> 00:31:48,575
+y nada más que la verdad
+con la ayuda de Dios?
+
+475
+00:31:48,575 --> 00:31:49,993
+- Lo juro.
+- Siéntese.
+
+476
+00:32:07,427 --> 00:32:08,762
+Sr. Sabich...
+
+477
+00:32:10,889 --> 00:32:15,143
+Ha declarado que mantuvo su inocencia
+firmemente con la inspectora Rodríguez.
+
+478
+00:32:15,894 --> 00:32:17,437
+- Correcto.
+- ¿Y fue sincero?
+
+479
+00:32:18,105 --> 00:32:18,939
+Lo fui.
+
+480
+00:32:18,939 --> 00:32:20,691
+¿Fue sincero con ella en todo momento?
+
+481
+00:32:20,691 --> 00:32:23,569
+No le hablé
+de mi relación con la víctima.
+
+482
+00:32:24,152 --> 00:32:27,447
+¿Le habló de su presencia
+en casa de la víctima la noche de autos?
+
+483
+00:32:28,156 --> 00:32:30,742
+- Al final.
+- ¿Al final?
+
+484
+00:32:30,742 --> 00:32:33,412
+Cuando le asignó el caso
+a la inspectora Rodríguez
+
+485
+00:32:33,412 --> 00:32:36,790
+en su cargo
+de ayudante jefe del fiscal general,
+
+486
+00:32:36,790 --> 00:32:41,128
+¿le contó que estuvo presente
+en la escena del crimen la noche de autos?
+
+487
+00:32:41,128 --> 00:32:42,212
+No lo hice.
+
+488
+00:32:42,963 --> 00:32:45,591
+¿Se lo contó
+a alguien relacionado con el caso?
+
+489
+00:32:45,591 --> 00:32:46,717
+Yo no la asesiné.
+
+490
+00:32:46,717 --> 00:32:49,887
+¿Las primeras 48 horas
+no son las más importantes?
+
+491
+00:32:49,887 --> 00:32:53,098
+¿No habría sido de ayuda
+para la policía y los investigadores
+
+492
+00:32:53,098 --> 00:32:54,683
+saber que estuvo allí?
+
+493
+00:32:54,683 --> 00:32:55,809
+Ya lo he admitido, Tommy.
+
+494
+00:32:56,393 --> 00:32:57,769
+No revelé mi presencia.
+
+495
+00:32:57,769 --> 00:33:00,439
+- ¿Se enamora de ella?
+- Me enamoré de ella.
+
+496
+00:33:01,440 --> 00:33:03,734
+¿Se podría decir que se obsesionó?
+
+497
+00:33:03,734 --> 00:33:06,570
+Estaba enamorado de ella.
+No sé si calificar de obsesión que...
+
+498
+00:33:06,570 --> 00:33:09,364
+Mandarle 30 mensajes o emails
+el día de su muerte.
+
+499
+00:33:09,364 --> 00:33:11,158
+- ¿Cómo lo calificaría?
+- Estaba enamorado de ella.
+
+500
+00:33:11,158 --> 00:33:14,912
+¿La noche que murió fue a su casa
+con la esperanza de retomar la aventura?
+
+501
+00:33:16,038 --> 00:33:16,872
+Así es.
+
+502
+00:33:16,872 --> 00:33:20,334
+¿Le mandó estos mensajes
+horas antes de su muerte?
+
+503
+00:33:20,334 --> 00:33:22,336
+"Esto no está bien.
+No puedes hacerme esto.
+
+504
+00:33:22,336 --> 00:33:25,464
+No dejaré que me trates así.
+Cógeme el puto teléfono".
+
+505
+00:33:25,464 --> 00:33:26,798
+- ¿Son suyos?
+- Así es.
+
+506
+00:33:26,798 --> 00:33:28,217
+¿Y qué hay de este?
+
+507
+00:33:29,218 --> 00:33:31,094
+"Quiero pasar
+el resto de mi vida contigo".
+
+508
+00:33:34,014 --> 00:33:35,432
+¿Le mandó a Carolyn ese mensaje?
+
+509
+00:33:35,432 --> 00:33:37,476
+¿Quería pasar
+el resto de su vida con ella?
+
+510
+00:33:37,476 --> 00:33:38,435
+Estaba enamorado de ella.
+
+511
+00:33:38,435 --> 00:33:40,896
+- ¿Estaba enfadado con ella?
+- Estaba frustrado.
+
+512
+00:33:40,896 --> 00:33:42,814
+¿Tan frustrado que le mandó este?
+
+513
+00:33:44,316 --> 00:33:45,609
+"Cógeme el puto teléfono.
+
+514
+00:33:45,609 --> 00:33:47,861
+{\an8}¿Quién cojones te has creído que eres
+tratándome así?".
+
+515
+00:33:47,861 --> 00:33:50,030
+¿Eso es frustración
+o lo calificaría de ira?
+
+516
+00:33:50,030 --> 00:33:51,990
+Lo calificaría de pasión.
+
+517
+00:33:53,033 --> 00:33:54,451
+Y la pasión puede llegar a cegarte.
+
+518
+00:33:54,952 --> 00:33:57,663
+Y yo perdí de vista
+lo que más me importa en la vida.
+
+519
+00:33:57,663 --> 00:33:59,706
+Mi esposa y mis hijos.
+
+520
+00:34:01,375 --> 00:34:03,293
+La pasión es una droga peligrosa.
+
+521
+00:34:03,293 --> 00:34:05,546
+Y tú tampoco eres inmune, Tommy.
+
+522
+00:34:06,588 --> 00:34:09,132
+Te pueden tanto las ganas de aplastarme
+
+523
+00:34:09,132 --> 00:34:13,011
+que has perdido de vista
+que no tienes pruebas sólidas.
+
+524
+00:34:13,011 --> 00:34:14,929
+Sí, estaba enamorado de ella.
+
+525
+00:34:15,597 --> 00:34:20,686
+Sí, no revelé mi presencia allí,
+pero yo no la maté.
+
+526
+00:34:21,853 --> 00:34:25,148
+- ¿La golpeó con un atizador?
+- No la golpeé nunca.
+
+527
+00:34:25,148 --> 00:34:26,483
+No soy una persona violenta.
+
+528
+00:34:28,694 --> 00:34:30,987
+Sr. Ratzer, ¿puede levantarse?
+
+529
+00:34:35,242 --> 00:34:36,827
+¿Alguna vez ha visto a esta persona?
+
+530
+00:34:36,827 --> 00:34:38,370
+Ese incidente tiene un contexto.
+
+531
+00:34:38,370 --> 00:34:41,623
+Esta es una grabación
+de la casa de sus vecinos.
+
+532
+00:34:42,165 --> 00:34:43,542
+Son ustedes dos.
+
+533
+00:34:47,963 --> 00:34:50,632
+¿Cree que capta con precisión el contexto?
+
+534
+00:34:51,132 --> 00:34:52,801
+Señoría, nos han pillado a traición.
+
+535
+00:34:52,801 --> 00:34:54,011
+Es una refutación.
+
+536
+00:34:54,011 --> 00:34:57,139
+El testigo ha declarado
+que no es violento.
+
+537
+00:34:58,140 --> 00:34:59,224
+Se admite.
+
+538
+00:35:01,268 --> 00:35:04,813
+Se presentó en mi casa. Sin avisar.
+
+539
+00:35:06,023 --> 00:35:08,275
+Se coló y me intimidó.
+
+540
+00:35:09,902 --> 00:35:10,986
+¿Y le dio una paliza?
+
+541
+00:35:12,029 --> 00:35:14,072
+Soy culpable de actuar a la desesperada.
+
+542
+00:35:14,823 --> 00:35:17,409
+Por eso oculté
+mi relación con Carolyn Polhemus.
+
+543
+00:35:17,409 --> 00:35:19,703
+Y que me obcecara con conseguir
+
+544
+00:35:19,703 --> 00:35:21,747
+la confesión de Liam Reynolds.
+
+545
+00:35:21,747 --> 00:35:23,624
+Hizo que pegara a Brian Ratzer,
+
+546
+00:35:23,624 --> 00:35:25,083
+que se presentó en mi casa
+
+547
+00:35:25,083 --> 00:35:28,378
+y aporreó la puerta
+cuando mi hija respondió.
+
+548
+00:35:28,378 --> 00:35:31,548
+¿Parezco desesperado?
+Sí. Estoy desesperado.
+
+549
+00:35:31,548 --> 00:35:35,093
+Han matado a un ser querido.
+Y me han acusado del crimen.
+
+550
+00:35:35,093 --> 00:35:37,596
+Y esas circunstancias pueden despertar
+
+551
+00:35:37,596 --> 00:35:42,601
+muchas cosas en una persona.
+La desesperación, por ejemplo.
+
+552
+00:35:42,601 --> 00:35:45,771
+La debilidad y la inestabilidad emocional.
+
+553
+00:35:46,438 --> 00:35:48,482
+Y me disculpo por todas ellas.
+
+554
+00:35:48,482 --> 00:35:51,443
+Me declaro culpable de todas ellas.
+
+555
+00:35:51,443 --> 00:35:55,239
+Pero no soy culpable
+de asesinar a Carolyn Polhemus.
+
+556
+00:35:55,239 --> 00:35:56,698
+No le quité la vida.
+
+557
+00:35:59,701 --> 00:36:02,371
+Ya. ¿Y con el Dr. Kumagai?
+
+558
+00:36:05,040 --> 00:36:08,126
+¿Intentó estrangular
+a nuestro jefe de la unidad forense?
+
+559
+00:36:18,011 --> 00:36:20,305
+- ¿Le repito la pregunta?
+- No, ya le he oído.
+
+560
+00:36:20,305 --> 00:36:26,144
+Me informaron de que el doctor
+había ocultado pruebas de otro caso.
+
+561
+00:36:26,144 --> 00:36:29,314
+O al menos omitió deliberadamente
+dicha información.
+
+562
+00:36:29,314 --> 00:36:33,861
+Y la cosa fue a más entre los dos y,
+
+563
+00:36:36,613 --> 00:36:38,657
+lamentablemente, llegamos a las manos.
+
+564
+00:36:38,657 --> 00:36:40,325
+Lamentablemente, intentó estrangularle.
+
+565
+00:36:40,325 --> 00:36:41,660
+No, no le estrangulé.
+
+566
+00:36:41,660 --> 00:36:42,744
+Vale. Le dio un pronto
+
+567
+00:36:42,744 --> 00:36:44,580
+- y lo agarró por el cuello...
+- De la camisa.
+
+568
+00:36:44,580 --> 00:36:47,207
+Vale, le dio un pronto
+y lo agarró por la camisa.
+
+569
+00:36:47,207 --> 00:36:49,626
+¿Y decidió hacerlo o simplemente saltó?
+
+570
+00:36:51,712 --> 00:36:52,963
+No entiendo lo que me pregunta.
+
+571
+00:36:52,963 --> 00:36:55,591
+¿Decidió agarrarlo
+o fue fruto del momento?
+
+572
+00:36:56,800 --> 00:37:00,095
+¿Y con el Sr. Ratzer, cuando le golpeaba,
+tal como hemos visto,
+
+573
+00:37:00,095 --> 00:37:02,222
+decidió hacerlo o saltó?
+
+574
+00:37:02,931 --> 00:37:04,141
+No se marchaba.
+
+575
+00:37:05,475 --> 00:37:07,811
+¿Qué habrías hecho tú?
+¿Qué habrían hecho?
+
+576
+00:37:11,064 --> 00:37:12,399
+Así que saltó.
+
+577
+00:37:21,158 --> 00:37:24,786
+Sr. Molto, por favor.
+
+578
+00:37:27,998 --> 00:37:31,251
+Oye, mírame. Mírame.
+
+579
+00:37:32,503 --> 00:37:33,921
+Ha sido extraordinario.
+
+580
+00:37:46,892 --> 00:37:48,393
+<i>Esto es una tortura.</i>
+
+581
+00:37:49,770 --> 00:37:51,605
+Es una puta tortura.
+
+582
+00:37:52,481 --> 00:37:55,275
+Me paso la vida mintiéndole a mi familia.
+
+583
+00:37:59,154 --> 00:38:02,199
+Cuando estoy con ellos,
+solo quiero estar contigo.
+
+584
+00:38:18,632 --> 00:38:21,844
+El resto de tu vida, ¿eh?
+
+585
+00:38:26,598 --> 00:38:28,100
+No recuerdo haberlo escrito.
+
+586
+00:38:28,100 --> 00:38:29,434
+¿No iba en serio?
+
+587
+00:38:35,774 --> 00:38:37,317
+¿Puedo preguntar: "¿Y ahora qué?"?
+
+588
+00:40:21,255 --> 00:40:24,466
+QUE TE FOLLEN
+
+589
+00:40:45,612 --> 00:40:47,531
+BASADA EN LA NOVELA
+DE SCOTT TUROW
+
+590
+00:42:07,611 --> 00:42:09,613
+Traducido por Gloria Drudis
+
